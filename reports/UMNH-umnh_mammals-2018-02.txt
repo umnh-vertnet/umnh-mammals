@@ -1,0 +1,294 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 220
+Number of records retrieved in searches: 3568
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: United States ; Times: 124
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 16
+	Country: Denmark ; Times: 54
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 7
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-01 ; Times: 17
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 9
+	Date: 2018-02-05 ; Times: 7
+	Date: 2018-02-04 ; Times: 50
+	Date: 2018-02-21 ; Times: 5
+	Date: 2018-02-20 ; Times: 26
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-25 ; Times: 3
+	Date: 2018-02-27 ; Times: 8
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-28 ; Times: 10
+	Date: 2018-02-14 ; Times: 10
+	Date: 2018-02-15 ; Times: 27
+	Date: 2018-02-16 ; Times: 4
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-11 ; Times: 2
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-13 ; Times: 9
+	Date: 2018-02-18 ; Times: 6
+	Date: 2018-02-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "vulpes macrotis" ; Times: 1
+	Query: "10066" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Wyoming&#34;" ; Times: 3
+	Query: "catalognumber:20110 &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UMNH:Mamm:31214?seid=3320189&#34;" ; Times: 4
+	Query: "Lasiurus blossevillii vntype:specimen country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Urocitellus brunneus " ; Times: 1
+	Query: "Capra" ; Times: 1
+	Query: "Mustelidae hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UMNH:Mamm:12530?seid=3301036&#34;" ; Times: 4
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "(perognathus longimembris) institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "35931" ; Times: 1
+	Query: "Notiosorex stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 3
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "(chaetodipus baileyi) institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (colobus guereza)" ; Times: 3
+	Query: "vntype:specimen specificepithet:lagopus genus:Alopex" ; Times: 1
+	Query: "specificepithet:stephensi genus:Neotoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "Scotophilus kuhlii" ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 4
+	Query: "specificepithet:lotor genus:Procyon year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "catalognumber:15168 institutioncode:UMNH" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UMNH:Mamm:22415?seid=3310063&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UMNH:Mamm:12539?seid=3302020&#34;" ; Times: 4
+	Query: "Lasiurus blossevillii vntype:specimen mappable:1" ; Times: 1
+	Query: "15928" ; Times: 1
+	Query: "specificepithet:stephensi genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes institutioncode:UMNH" ; Times: 1
+	Query: "(19137)" ; Times: 1
+	Query: "Ovis canadensis mappable:1" ; Times: 2
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UMNH:Mamm:32780?seid=3321349&#34;" ; Times: 4
+	Query: "catalognumber:14723 institutioncode:UMNH" ; Times: 2
+	Query: "Neotoma floridana" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:15169 institutioncode:UMNH" ; Times: 1
+	Query: "reithrodontomys megalotis institutioncode:UMNH" ; Times: 7
+	Query: "grypus" ; Times: 1
+	Query: "19848" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "Didelphis virginiana connecticut" ; Times: 1
+	Query: "catalognumber:15167 institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (colobus)" ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "Hydrochoerus isthmius " ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "peromyscus truei institutioncode:UMNH" ; Times: 2
+	Query: "Mustela putorius furo" ; Times: 1
+	Query: "Alces alces alces" ; Times: 3
+	Query: "specificepithet:truei genus:Peromyscus class:Mammalia county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "11297" ; Times: 1
+	Query: "13778" ; Times: 1
+	Query: "Myocaster coypus mappable:1" ; Times: 3
+	Query: "genus:Neotoma county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:macrotis genus:Vulpes institutioncode:UMNH" ; Times: 1
+	Query: "halichoerus grypus" ; Times: 5
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "13773" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:lepida genus:Neotoma county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "peromyscus boylii institutioncode:UMNH" ; Times: 1
+	Query: "genus:lasiurus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "catalognumber:17751 institutioncode:UMNH" ; Times: 1
+	Query: "mammal stateprovince:&#34;guam&#34;" ; Times: 2
+	Query: "peromyscus institutioncode:UMNH" ; Times: 1
+	Query: "locality:Navajo mountain" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Halichoerus grypus" ; Times: 3
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 4
+	Query: "Alces alces" ; Times: 3
+	Query: "Vulpes macrotis" ; Times: 13
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "catalognumber:2292 institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Alopex institutioncode:UMNH" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UMNH:Mamm:32974?seid=3321622&#34;" ; Times: 4
+	Query: "distance(location,geopoint(44.1953112460001,-90.2914159755))&lt;22242" ; Times: 4
+	Query: "class:Mammalia locality:Navajo mountain" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UMNH:Mamm:32975?seid=3321241&#34;" ; Times: 4
+	Query: "specificepithet:kuhlii genus:Scotophilus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "cervus canadensis mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 2
+	Query: "vntype:specimen genus:bos institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:cinerea county:&#34;Washington&#34;" ; Times: 2
+	Query: "(chaetodipus) institutioncode:UMNH" ; Times: 6
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UMNH:Mamm:27613?seid=3315478&#34;" ; Times: 4
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "vntype:specimen genus:oreamnos institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:nuttalli genus:ochrotomys stateprovince:&#34;kentucky&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UMNH:Mamm:27612?seid=3315914&#34;" ; Times: 4
+	Query: "sorex merriami" ; Times: 2
+	Query: "distance(location,geopoint(44.1377106245001,-90.1674187625))&lt;13571" ; Times: 4
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "sylvilagus floridanus massachusetts" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UMNH:Mamm:10745?seid=3299602&#34;" ; Times: 4
+	Query: "specificepithet:albigula genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 1892 download events in this period)
+Total number of records downloaded: 83830
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 94
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 5
+	Date: 2018-02-01 ; Times: 74
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "Lasiurus blossevillii vntype:specimen country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 2
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "xerospermophilus spilosoma" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Artibeus jamaicensis" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Dipodomys panamintinus" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "reithrodontomys megalotis institutioncode:UMNH" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "vntype:specimen (colobus guereza)" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "mammal minnesota" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:UMNH" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 2
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Tatera" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "class:Mammalia locality:Navajo mountain" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "specificepithet:kuhlii genus:Scotophilus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "specificepithet:nuttalli genus:ochrotomys stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 2
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "Myodes gapperi" ; Times: 2
+
+
+End of report.
