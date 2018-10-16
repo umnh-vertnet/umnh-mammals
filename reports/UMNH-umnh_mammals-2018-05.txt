@@ -1,0 +1,158 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 119
+Number of records retrieved in searches: 969
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 9
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 19
+	Country: United States ; Times: 71
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 7
+	Date: 2018-05-29 ; Times: 3
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 7
+	Date: 2018-05-23 ; Times: 7
+	Date: 2018-05-24 ; Times: 4
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-26 ; Times: 2
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-04 ; Times: 12
+	Date: 2018-05-03 ; Times: 6
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-08 ; Times: 6
+	Date: 2018-05-30 ; Times: 7
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-14 ; Times: 6
+	Date: 2018-05-17 ; Times: 9
+	Date: 2018-05-16 ; Times: 16
+	Date: 2018-05-11 ; Times: 6
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(44.1953112460001,-90.2914159755))&lt;22242" ; Times: 2
+	Query: "distance(location,geopoint(43.067916277931,-89.6317882099673))&lt;9664" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "Brachylagus vntype:specimen hastissue:1" ; Times: 1
+	Query: "tyler J B" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 5
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:UMNH" ; Times: 1
+	Query: "11051" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Brachylagus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Box Elder&#34; stateprovince:&#34;Utah&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 2
+	Query: "catalognumber:5545 institutioncode:UMNH" ; Times: 2
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "distance(location,geopoint(43.1571285953795,-89.6242750647675))&lt;9135" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 2
+	Query: "palliata" ; Times: 2
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "Microtus pennsylvanicus year &gt;= 2000 institutioncode:UMNH hastissue:1" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "Lasiurus cinereus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "Lasiurus borealis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "distance(location,geopoint(42.9787039604825,-89.428143815909))&lt;9675" ; Times: 1
+	Query: "Clark county Stephens I" ; Times: 1
+	Query: "distance(location,geopoint(44.1377106245001,-90.1674187625))&lt;13571" ; Times: 2
+	Query: "specificepithet:vison genus:Neovison mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Microtus longicaudus year &gt;= 2000 institutioncode:UMNH hastissue:1" ; Times: 1
+	Query: "Brachylagus hastissue:1" ; Times: 8
+	Query: "Alouatta palliata" ; Times: 15
+	Query: "Panthera onca" ; Times: 2
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "(Oreamnos)" ; Times: 1
+	Query: "40447" ; Times: 2
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Beaver&#34; stateprovince:&#34;Utah&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "order:Chiroptera AND hastypestatus:1 AND NOT (MSB)" ; Times: 2
+	Query: "31227" ; Times: 2
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Clark county Stephensi" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "18002" ; Times: 1
+	Query: "Microtus montanus year &gt;= 2000 institutioncode:UMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys hastissue:1" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus hastissue:1" ; Times: 3
+	Query: "specificepithet:canadensis genus:Castor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "catalognumber:35360 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "north american porcupine" ; Times: 1
+	Query: "brevicaudus" ; Times: 2
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "Dipodomys Washoe county" ; Times: 5
+	Query: "10048" ; Times: 1
+	Query: "37184" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1178 download events in this period)
+Total number of records downloaded: 11560
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 3
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-11 ; Times: 3
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "palliata" ; Times: 2
+	Query: "vntype:specimen (Microtus ) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus hastissue:1" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+
+
+End of report.
