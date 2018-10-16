@@ -1,0 +1,196 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 699
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 57
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 3
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-02 ; Times: 3
+	Date: 2017-12-23 ; Times: 1
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-20 ; Times: 3
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-04 ; Times: 4
+	Date: 2017-12-07 ; Times: 4
+	Date: 2017-12-06 ; Times: 15
+	Date: 2017-12-01 ; Times: 5
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-03 ; Times: 4
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-12 ; Times: 6
+	Date: 2017-12-15 ; Times: 8
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Zapus 2690" ; Times: 1
+	Query: "LASIURUS SEMINOLUS" ; Times: 1
+	Query: "hidalgo notiosorex mexico" ; Times: 2
+	Query: "notiosorex" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "13875" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "specificepithet:merriami genus:Sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:mt. country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 3
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;box elder&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;san juan&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "16622" ; Times: 1
+	Query: "hidalgo notiosorex" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Wisconsin&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 2
+	Query: "1990 Idaho" ; Times: 1
+	Query: "32745" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "11682" ; Times: 1
+	Query: "17301" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Nye County&#34; stateprovince:&#34;Nevada&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "19403" ; Times: 1
+	Query: "catalognumber:642" ; Times: 1
+	Query: "41234" ; Times: 1
+	Query: "tupaia glis" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "Zapus 2684" ; Times: 1
+	Query: "&#34;san juan county&#34; specificepithet:maniculatus genus:peromyscus mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Beaver&#34; stateprovince:&#34;Utah&#34; mappable:1 hastissue:1" ; Times: 2
+	Query: "Zapus 2734" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:UMNH mappable:1 hastissue:1" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "Zapus 2732" ; Times: 1
+	Query: "&#34;elko county&#34; specificepithet:maniculatus genus:peromyscus mappable:1 hastissue:1" ; Times: 1
+	Query: "22704" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "halichoerus grypus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;San Juan&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Lake&#34; stateprovince:&#34;Utah&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "sorex preblei" ; Times: 3
+	Query: "sorex merriami" ; Times: 2
+	Query: "37061" ; Times: 1
+	Query: "genus:odocoileus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "sorex nanus" ; Times: 1
+	Query: "29809" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "hidalgo notiosorex mexico crawfordi" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Beaver County&#34; stateprovince:&#34;Utah&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;tennessee&#34;" ; Times: 2
+	Query: "fishlake national forest" ; Times: 1
+	Query: "&#34;farmington &#34; mappable:1 hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 674 download events in this period)
+Total number of records downloaded: 18126
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 10
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-20 ; Times: 5
+	Date: 2017-12-16 ; Times: 2
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-14 ; Times: 6
+	Date: 2017-12-15 ; Times: 4
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-26 ; Times: 16
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-19 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "Microtus oeconomus" ; Times: 2
+	Query: "sorex vagrans" ; Times: 1
+	Query: "sorex nanus" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "sorex tundrensis" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "1990 Idaho" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "sorex monticolus" ; Times: 2
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Peromyscus keeni mappable:1" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Synaptomys borealis mappable:1" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "Lepus americanus mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "class:Mammalia country:&#34;Democratic Republic of the Congo&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sorex merriami" ; Times: 1
+	Query: "Perognathus flavescens mappable:1" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1" ; Times: 1
+	Query: "Enhydra lutris vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "sciurus arizonensis" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "Perognathus fasciatus mappable:1" ; Times: 1
+	Query: "genus:odocoileus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "sorex preblei" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+
+
+End of report.
