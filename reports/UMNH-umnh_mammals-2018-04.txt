@@ -1,0 +1,524 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 533
+Number of records retrieved in searches: 5464
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 522
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-28 ; Times: 4
+	Date: 2018-04-23 ; Times: 74
+	Date: 2018-04-22 ; Times: 187
+	Date: 2018-04-21 ; Times: 4
+	Date: 2018-04-20 ; Times: 4
+	Date: 2018-04-27 ; Times: 4
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 12
+	Date: 2018-04-24 ; Times: 73
+	Date: 2018-04-01 ; Times: 10
+	Date: 2018-04-03 ; Times: 24
+	Date: 2018-04-02 ; Times: 4
+	Date: 2018-04-05 ; Times: 24
+	Date: 2018-04-04 ; Times: 8
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 4
+	Date: 2018-04-09 ; Times: 16
+	Date: 2018-04-08 ; Times: 4
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 5
+	Date: 2018-04-16 ; Times: 34
+	Date: 2018-04-17 ; Times: 21
+	Date: 2018-04-15 ; Times: 4
+	Date: 2018-04-18 ; Times: 4
+	Date: 2018-04-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:914 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi mappable:1" ; Times: 2
+	Query: "4672 Dipodomys" ; Times: 1
+	Query: "Alouatta palliata mappable:1" ; Times: 1
+	Query: "specificepithet:gossypinus genus:Peromyscus" ; Times: 1
+	Query: "catalognumber:832 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1971 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:680 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3849 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:nanus genus:Sorex" ; Times: 1
+	Query: "catalognumber:916 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Callospermophilus specificepithet:lateralis mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:nuttallii mappable:1" ; Times: 2
+	Query: "320 Dipodomys" ; Times: 1
+	Query: "genus:Lemmiscus specificepithet:curtatus mappable:1 hasmass:1" ; Times: 1
+	Query: "lasionycteris month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1890 year &lt;= 1900" ; Times: 1
+	Query: "catalognumber:8023 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2883 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Otospermophilus specificepithet:variegatus mappable:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen genus:equus institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8035 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2881 institutioncode:UMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera Onca " ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "catalognumber:3321 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1112 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3553 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8034 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1139 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Ochotona institutioncode:UMNH" ; Times: 2
+	Query: "genus:Microtus specificepithet:richardsoni mappable:1" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 2
+	Query: "panthera tigris" ; Times: 2
+	Query: "catalognumber:942 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:nuttallii genus:Sylvilagus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Antilocapra institutioncode:UMNH" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "catalognumber:2218 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Neotoma specificepithet:stephensi mappable:1" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes year &gt;= 1921 year &lt;= 1940" ; Times: 1
+	Query: "catalognumber:1023 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1269 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus" ; Times: 4
+	Query: "catalognumber:1974 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:635 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2852 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2224 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3753 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Duchesne&#34; stateprovince:&#34;Utah&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "microtus mexicanus stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "35872" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "catalognumber:3549 institutioncode:UMNH" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "genus:Neotoma specificepithet:cinerea mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Oreamnos specificepithet:americanus mappable:1" ; Times: 1
+	Query: "genus:Didelphis institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:1995 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:Catus genus:Felis" ; Times: 1
+	Query: "genus:Panthera specificepithet:onca mappable:1" ; Times: 1
+	Query: "catalognumber:323 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8165 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 5
+	Query: "genus:Sorex specificepithet:vagrans mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Antilocapra specificepithet:americana mappable:1" ; Times: 1
+	Query: "genus:Microdipodops specificepithet:megacephalus mappable:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:2105 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2230 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2204 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Alopex specificepithet:lagopus mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus family:cricetidae order:rodentia class:Mammalia locality:uinta mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:2875 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1944 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2022 institutioncode:UMNH" ; Times: 1
+	Query: "distance(location,geopoint(38.9664534,-95.2307167))&lt;1000" ; Times: 1
+	Query: "genus:Sorex specificepithet:fumeus mappable:1 hasmass:1" ; Times: 2
+	Query: "myotis velifer stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:2859 institutioncode:UMNH" ; Times: 2
+	Query: "sorex preblei" ; Times: 1
+	Query: "catalognumber:2217 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Urocitellus specificepithet:columbianus mappable:1" ; Times: 2
+	Query: "catalognumber:2349 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Zapus specificepithet:princeps mappable:1 hasmass:1" ; Times: 2
+	Query: "catalognumber:962 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2231 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2880 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Phenacomys specificepithet:intermedius mappable:1" ; Times: 1
+	Query: "catalognumber:2229 institutioncode:UMNH" ; Times: 1
+	Query: "Mustela year&gt;=1990 year&lt;=1992 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "catalognumber:1989 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1304 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2205 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2408 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1137 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2196 institutioncode:UMNH" ; Times: 1
+	Query: "sciurus aberti kaibabensis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:Leopardus specificepithet:geoffroyi mappable:1" ; Times: 1
+	Query: "catalognumber:1973 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:californicus mappable:1" ; Times: 1
+	Query: "catalognumber:907 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:876 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:9165 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes year &gt;= 1961 year &lt;= 1980" ; Times: 1
+	Query: "genus:Ochotona specificepithet:collaris mappable:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:nanus mappable:1" ; Times: 2
+	Query: "catalognumber:2106 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:681 institutioncode:UMNH" ; Times: 1
+	Query: "A-31936" ; Times: 1
+	Query: "genus:Xerospermophilus specificepithet:tereticaudus mappable:1" ; Times: 2
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 3
+	Query: "catalognumber:2203 institutioncode:UMNH" ; Times: 1
+	Query: "idionycteris phyllotis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Tamias specificepithet:quadrimaculatus mappable:1" ; Times: 2
+	Query: "catalognumber:920 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1266 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:griseus genus:sciurus" ; Times: 1
+	Query: "genus:Lemmiscus institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:2207 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Alouatta specificepithet:palliata mappable:1" ; Times: 1
+	Query: "catalognumber:1026 institutioncode:UMNH" ; Times: 1
+	Query: "Tamandua mappable:1" ; Times: 1
+	Query: "specificepithet:taxus genus:Taxidea" ; Times: 2
+	Query: "catalognumber:3548 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "catalognumber:1270 institutioncode:UMNH" ; Times: 1
+	Query: "lepus alleni stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:2360 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Urocitellus specificepithet:elegans mappable:1" ; Times: 2
+	Query: "order:Monotremata institutioncode:UMNH" ; Times: 3
+	Query: "genus:Sorex specificepithet:merriami mappable:1" ; Times: 2
+	Query: "catalognumber:1972 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Ovis specificepithet:canadensis mappable:1" ; Times: 1
+	Query: "catalognumber:831 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1200 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1977 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3552 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor mappable:1" ; Times: 2
+	Query: "catalognumber:1992 institutioncode:UMNH" ; Times: 1
+	Query: "tadarida brasiliensis stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "catalognumber:1268 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1994 institutioncode:UMNH" ; Times: 1
+	Query: "bobcat" ; Times: 2
+	Query: "vntype:specimen genus:Odocoileus institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3550 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1051 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2201 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Ictidomys specificepithet:tridecemlineatus mappable:1" ; Times: 1
+	Query: "catalognumber:1118 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3752 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:montanus mappable:1" ; Times: 1
+	Query: "genus:Canis institutioncode:UMNH" ; Times: 3
+	Query: "catalognumber:1626 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1153 institutioncode:UMNH" ; Times: 1
+	Query: "10019" ; Times: 1
+	Query: "genus:Procyon specificepithet:lotor mappable:1 hasmass:1" ; Times: 3
+	Query: "catalognumber:1060 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1143 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Lepus institutioncode:UMNH" ; Times: 3
+	Query: "catalognumber:1208 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1199 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Thomomys specificepithet:talpoides mappable:1 hasmass:1" ; Times: 2
+	Query: "catalognumber:1979 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2882 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aberti mappable:1" ; Times: 2
+	Query: "american lady" ; Times: 1
+	Query: "catalognumber:2877 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1162 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2878 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2202 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:leucurus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus mappable:1" ; Times: 1
+	Query: "family:Tayassuidae institutioncode:UMNH" ; Times: 7
+	Query: "catalognumber:911 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1259 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1296 institutioncode:UMNH" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "catalognumber:1085 institutioncode:UMNH" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "catalognumber:2494 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2237 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2879 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Urocitellus specificepithet:brunneus mappable:1" ; Times: 2
+	Query: "genus:Poliocitellus specificepithet:franklinii mappable:1" ; Times: 1
+	Query: "26781" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "genus:Tamias specificepithet:rufus mappable:1" ; Times: 2
+	Query: "catalognumber:1141 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1201 institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen family:Suidae institutioncode:UMNH" ; Times: 1
+	Query: "tamiasciurus hudsonicus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "catalognumber:3249 institutioncode:UMNH" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "genus:Sorex specificepithet:hoyi mappable:1" ; Times: 2
+	Query: "genus:Notiosorex specificepithet:crawfordi mappable:1" ; Times: 1
+	Query: "catalognumber:2361 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2825 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Sorex stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "catalognumber:2884 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:844 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "catalognumber:1993 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:bachmani mappable:1" ; Times: 2
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.16340342422401,-117.94921875))&lt;71900" ; Times: 1
+	Query: "2487 Dipodomys" ; Times: 1
+	Query: "catalognumber:1262 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "catalognumber:2833 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1961 year &lt;= 1980" ; Times: 1
+	Query: "catalognumber:2858 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:3117 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2219 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:987 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1264 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Tamias specificepithet:dorsalis mappable:1 hasmass:1" ; Times: 2
+	Query: "catalognumber:2220 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2209 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 2
+	Query: "catalognumber:3751 institutioncode:UMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 6
+	Query: "catalognumber:3551 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2226 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2228 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Scapanus specificepithet:townsendii mappable:1" ; Times: 3
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "catalognumber:3342 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Salt Lake county:&#34;Salt Lake&#34; stateprovince:&#34;Utah&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:1150 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1160 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "catalognumber:1930 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8031 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Cynomys specificepithet:ludovicianus mappable:1" ; Times: 1
+	Query: "catalognumber:3378 institutioncode:UMNH" ; Times: 2
+	Query: "genus:Sorex specificepithet:palustris mappable:1 hasmass:1" ; Times: 2
+	Query: "catalognumber:2480 institutioncode:UMNH" ; Times: 1
+	Query: "microtus longicaudus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Aplodontia specificepithet:rufa mappable:1" ; Times: 1
+	Query: "catalognumber:913 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Perognathus specificepithet:fasciatus mappable:1" ; Times: 1
+	Query: "catalognumber:2017 institutioncode:UMNH" ; Times: 1
+	Query: "family:Bovidae institutioncode:UMNH" ; Times: 8
+	Query: "catalognumber:1271 institutioncode:UMNH" ; Times: 1
+	Query: "Tamandua mexicana mappable:1" ; Times: 3
+	Query: "genus:Ondatra specificepithet:zibethicus mappable:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:1197 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Sorex specificepithet:hoyi mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Tamias specificepithet:palmeri mappable:1" ; Times: 2
+	Query: "catalognumber:1359 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:noctivagans genus:Lasionycteris year &gt;= 1956 year &lt;= 1956" ; Times: 1
+	Query: "catalognumber:1294 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Callospermophilus year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "catalognumber:1432 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2807 institutioncode:UMNH" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.293564192170095,-117.861328125))&lt;50442" ; Times: 1
+	Query: "catalognumber:1976 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:nanus genus:Sorex recordedby:French" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.293564192170095,-117.861328125))&lt;100000" ; Times: 1
+	Query: "catalognumber:1133 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Taxidea specificepithet:taxus mappable:1" ; Times: 2
+	Query: "tamias gunnison" ; Times: 2
+	Query: "catalognumber:1159 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Lepus specificepithet:alleni mappable:1" ; Times: 1
+	Query: "sciurus aberti stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:915 institutioncode:UMNH" ; Times: 1
+	Query: "myotis evotis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Philander specificepithet:opossum mappable:1" ; Times: 1
+	Query: "genus:Urocitellus specificepithet:armatus mappable:1" ; Times: 2
+	Query: "specificepithet:noctivagans genus:lasionycteris continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "10760" ; Times: 1
+	Query: "catalognumber:2114 institutioncode:UMNH" ; Times: 1
+	Query: "Lontra canadensis mappable:1" ; Times: 3
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "catalognumber:8041 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Pecari specificepithet:tajacu mappable:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:2199 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1058 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2223 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "genus:Lemmiscus specificepithet:curtatus mappable:1" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum mappable:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:tenellus mappable:1" ; Times: 2
+	Query: "catalognumber:3288 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Neovison specificepithet:vison mappable:1 hasmass:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;lake&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "catalognumber:1134 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "catalognumber:1027 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2195 institutioncode:UMNH" ; Times: 2
+	Query: "migratory" ; Times: 1
+	Query: "catalognumber:1198 institutioncode:UMNH" ; Times: 1
+	Query: "34929" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "catalognumber:1207 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Sorex specificepithet:preblei mappable:1" ; Times: 2
+	Query: "specificepithet:nuttallii genus:Sylvilagus stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "genus:Tamias specificepithet:panamintinus mappable:1" ; Times: 2
+	Query: "catalognumber:2854 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:676 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2357 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:33783 institutioncode:UMNH" ; Times: 1
+	Query: "Dane wisconsin" ; Times: 1
+	Query: "bobcat mappable:1" ; Times: 3
+	Query: "genus:Thomomys specificepithet:idahoensis mappable:1" ; Times: 2
+	Query: "36218" ; Times: 1
+	Query: "Microtus richardsoni stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "catalognumber:1004 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:1142 institutioncode:UMNH" ; Times: 1
+	Query: "29688" ; Times: 1
+	Query: "genus:Brachylagus specificepithet:idahoensis mappable:1" ; Times: 1
+	Query: "catalognumber:1303 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Mustela specificepithet:nivalis mappable:1" ; Times: 1
+	Query: "catalognumber:10253 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "genus:Sorex specificepithet:tenellus mappable:1 hasmass:1" ; Times: 2
+	Query: "catalognumber:1138 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:944 institutioncode:UMNH" ; Times: 1
+	Query: "16232" ; Times: 1
+	Query: "corynorhinus townsendii stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Lepus specificepithet:townsendii mappable:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Cynomys specificepithet:leucurus mappable:1" ; Times: 1
+	Query: "catalognumber:912 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1025 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 5
+	Query: "genus:Cynomys specificepithet:parvidens mappable:1" ; Times: 1
+	Query: "thomomys bulbivorus" ; Times: 1
+	Query: "catalognumber:1263 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Saguinus specificepithet:geoffroyi mappable:1" ; Times: 1
+	Query: "neotoma stephensi stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Thomomys specificepithet:bulbivorus mappable:1" ; Times: 2
+	Query: "genus:Chaetodipus specificepithet:formosus mappable:1 hasmass:1" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "catalognumber:691 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "scientificname:panthera onca " ; Times: 5
+	Query: "catalognumber:921 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2206 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:855 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2222 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Marmota specificepithet:flaviventris mappable:1" ; Times: 1
+	Query: "catalognumber:1433 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Lemmiscus preparations:skeleton institutioncode:UMNH" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:nuttallii mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:lasiurus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "genus:Tamandua specificepithet:mexicana mappable:1" ; Times: 2
+	Query: "catalognumber:3323 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1261 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2200 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1157 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Urocitellus specificepithet:beldingi mappable:1" ; Times: 2
+	Query: "catalognumber:860 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Cynomys specificepithet:gunnisoni mappable:1" ; Times: 1
+	Query: "catalognumber:1045 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2868 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 3
+	Query: "genus:Tamias specificepithet:amoenus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Spilogale specificepithet:gracilis mappable:1" ; Times: 2
+	Query: "genus:Bassariscus specificepithet:astutus mappable:1" ; Times: 1
+	Query: "catalognumber:3852 institutioncode:UMNH" ; Times: 1
+	Query: "corynorhinus townsendii pallescens stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:Bison specificepithet:bison mappable:1" ; Times: 2
+	Query: "catalognumber:1046 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "catalognumber:1311 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8036 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Microtus specificepithet:montanus mappable:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:2197 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:919 institutioncode:UMNH" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "catalognumber:1151 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:288 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "scientificname:Panthera onca " ; Times: 17
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Xerospermophilus specificepithet:spilosoma mappable:1" ; Times: 2
+	Query: "19122" ; Times: 1
+	Query: "genus:Sorex specificepithet:tundrensis mappable:1" ; Times: 2
+	Query: "catalognumber:2221 institutioncode:UMNH" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "catalognumber:2208 institutioncode:UMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1359 download events in this period)
+Total number of records downloaded: 4506
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Poland ; Times: 5
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 44
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-13 ; Times: 8
+	Date: 2018-04-03 ; Times: 6
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-16 ; Times: 7
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-15 ; Times: 8
+	Date: 2018-04-09 ; Times: 7
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Rutilus rutilus" ; Times: 2
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.293564192170095,-117.861328125))&lt;100000" ; Times: 1
+	Query: "distance(location,geopoint(19.55309,-155.31731))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(40.4619,-103.0293))&lt;50000" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:mus continent:North America" ; Times: 1
+	Query: "genus:bison mappable:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "family:Bovidae institutioncode:UMNH" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Dipodidae hasmass:1" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "genus:Lemmiscus preparations:skeleton institutioncode:UMNH" ; Times: 1
+	Query: "order:Rodentia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "distance(location,geopoint(63.88112,-145.75136))&lt;50000" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus mappable:1" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 6
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "order:Rodentia county:&#34;Monterey&#34;" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer mappable:1" ; Times: 1
+	Query: "Geomyidae hasmass:1" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Mammals Illinois Cook" ; Times: 4
+	Query: "specificepithet:leucopus genus:peromyscus continent:North America" ; Times: 2
+	Query: "Muridae hasmass:1" ; Times: 1
+	Query: "Heteromyidae hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "distance(location,geopoint(44.95011,-110.58715))&lt;50000" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Sciuridae hasmass:1" ; Times: 1
+	Query: "(colobus guereza)" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.75825,-102.4471))&lt;50000" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(44.95348,-110.53914))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+
+
+End of report.
