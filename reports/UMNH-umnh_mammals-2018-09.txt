@@ -1,0 +1,170 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 812
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 75
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-30 ; Times: 25
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-13 ; Times: 6
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-25 ; Times: 8
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-01 ; Times: 4
+	Date: 2018-09-23 ; Times: 3
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-17 ; Times: 19
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 6
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-27 ; Times: 4
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 8
+	Query: "34893-1" ; Times: 1
+	Query: "22579" ; Times: 1
+	Query: "catalognumber:28778 institutioncode:UMNH" ; Times: 1
+	Query: "skunk skull" ; Times: 2
+	Query: "catalognumber:22738 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34; AND (NOT MSB)" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "catalognumber:2160 &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;franklin&#34;" ; Times: 1
+	Query: "Antilocapra americana mappable:1" ; Times: 2
+	Query: "catalognumber:41432 institutioncode:UMNH" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "catalognumber:31116 institutioncode:UMNH" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34; AND (NOT MSB NOT cave)" ; Times: 1
+	Query: "14042" ; Times: 1
+	Query: "catalognumber:28239 institutioncode:UMNH" ; Times: 2
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 2
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "specificepithet:evotis genus:myotis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "Corynorhinus rafinesquii mappable:1" ; Times: 1
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "catalognumber:37928 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;White Pine&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:Xerospermophilus" ; Times: 2
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "specificepithet:fuscus genus:eptesicus stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "Alouatta palliata" ; Times: 4
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34; AND (NOT MSB NOT fossil)" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "specificepithet:evotis genus:myotis stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "16088" ; Times: 1
+	Query: "catalognumber:41431 institutioncode:UMNH" ; Times: 2
+	Query: "specificepithet:maculatum genus:euderma hastissue:1" ; Times: 2
+	Query: "institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:brunneus genus:Urocitellus" ; Times: 2
+	Query: "dolly varden" ; Times: 2
+	Query: "catalognumber:37605 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:18754 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:pallidus genus:microdipodops stateprovince:&#34;nevada&#34; year &gt;= 1960 year &lt;= 1990" ; Times: 2
+	Query: "tamandua mexicana" ; Times: 5
+	Query: "alouatta palliata" ; Times: 1
+	Query: "harms" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela stateprovince:&#34;utah&#34;" ; Times: 2
+	Query: "catalognumber:37341 institutioncode:UMNH" ; Times: 2
+	Query: "33106" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "specificepithet:thysanodes genus:myotis stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "catalognumber:37249 institutioncode:UMNH" ; Times: 1
+	Query: "TAMANDUA MEXICANA" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34; AND (NOT MSB NOT Earth )" ; Times: 1
+	Query: "specificepithet:erminea genus:Mustela stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;utah&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 846 download events in this period)
+Total number of records downloaded: 4943
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Australia ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-13 ; Times: 8
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 4
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-15 ; Times: 2
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;White Pine&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "vntype:specimen genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "notiosorex" ; Times: 3
+	Query: "genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis mappable:1" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "class:mammalia county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 2
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "class:mammalia county:&#34;Lincoln&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+
+
+End of report.
