@@ -1,0 +1,170 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 193
+Number of records retrieved in searches: 1363
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 66
+	Country: Israel ; Times: 9
+	Country: South Africa ; Times: 2
+	Country: Denmark ; Times: 7
+	Country: Mexico ; Times: 94
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Sri Lanka ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 7
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 4
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-14 ; Times: 3
+	Date: 2018-08-15 ; Times: 13
+	Date: 2018-08-13 ; Times: 46
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-11 ; Times: 2
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-17 ; Times: 31
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-24 ; Times: 5
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-22 ; Times: 4
+	Date: 2018-08-21 ; Times: 13
+	Date: 2018-08-20 ; Times: 14
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-06 ; Times: 4
+	Date: 2018-08-01 ; Times: 12
+	Date: 2018-08-29 ; Times: 4
+	Date: 2018-08-28 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:subflavus genus:Perimyotis stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "35547" ; Times: 1
+	Query: "alouatta" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34; institutioncode:UMNH" ; Times: 1
+	Query: "10699" ; Times: 1
+	Query: "parastrellus hesperus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "24493" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "Puma concolor" ; Times: 21
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;Colorado&#34; preparations:skull" ; Times: 1
+	Query: "30046" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "11297" ; Times: 1
+	Query: "21408" ; Times: 1
+	Query: "12116" ; Times: 1
+	Query: "39306" ; Times: 1
+	Query: "parastrellus hesperus" ; Times: 2
+	Query: "Sentinel" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 3
+	Query: "11363" ; Times: 2
+	Query: "Puma concolor 1964" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "10760" ; Times: 2
+	Query: "parastrellus hesperus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Stock stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Peromyscus year &gt;= 2000 year &lt;= 2018 institutioncode:UMNH" ; Times: 1
+	Query: "B-3403" ; Times: 1
+	Query: "genus:reithrodontomys county:&#34;humboldt&#34;" ; Times: 2
+	Query: "24921" ; Times: 1
+	Query: "Pine Valley Creek" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Colorado&#34; preparations:skull" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "UMNH-4755" ; Times: 1
+	Query: "Rangifer tarandus mappable:1" ; Times: 4
+	Query: "13900" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "24949" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "32613" ; Times: 2
+	Query: "41411" ; Times: 1
+	Query: "Puma concolor " ; Times: 1
+	Query: "15862" ; Times: 2
+	Query: "13171" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 4
+	Query: "25211" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 82
+	Query: "Felis catus" ; Times: 1
+	Query: "25891" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "catalognumber:36133 institutioncode:UMNH" ; Times: 2
+	Query: "11472" ; Times: 1
+	Query: "Myotis dasycneme" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "genus:peromyscus catalognumber:10760" ; Times: 1
+	Query: "33004" ; Times: 1
+	Query: "30447" ; Times: 1
+	Query: "euderma" ; Times: 1
+	Query: "10395" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1416 download events in this period)
+Total number of records downloaded: 5710
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-09 ; Times: 4
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 5
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 4
+	Query: "Myotis dasycneme" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "genus:Peromyscus year &gt;= 2000 year &lt;= 2018 institutioncode:UMNH" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "vntype:specimen specificepithet:hoyi genus:Sorex lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+
+
+End of report.
