@@ -1,0 +1,172 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 1197
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 81
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 9
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 9
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-03 ; Times: 4
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-25 ; Times: 9
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 3
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 8
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-22 ; Times: 4
+	Date: 2018-06-10 ; Times: 6
+	Date: 2018-06-11 ; Times: 3
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 17
+	Date: 2018-06-19 ; Times: 4
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Brachylagus hastissue:1" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "vntype:specimen specificepithet:eremicus genus:Peromyscus institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "urocyon cinereoargenteus mexico" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus hastissue:1" ; Times: 3
+	Query: "locality:Caverns stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "bobcat" ; Times: 6
+	Query: "specificepithet:crinitus genus:Peromyscus stateprovince:&#34;Utah&#34; institutioncode:UMNH" ; Times: 1
+	Query: "Microtus richardsoni year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus stateprovince:&#34;Utah&#34; institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "Bobcat" ; Times: 2
+	Query: "mountain beaver" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 15
+	Query: "28940" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "order:Rodentia country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Nevada&#34; year &gt;= 2015" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "Antilocapra americana" ; Times: 8
+	Query: "39047" ; Times: 1
+	Query: "scientificname:panthera onca " ; Times: 4
+	Query: "vntype:specimen specificepithet:boylii genus:Peromyscus institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 3
+	Query: "vntype:specimen specificepithet:crinitus genus:Peromyscus institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "american bison" ; Times: 3
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "Chiroptera locality:Chiricahua Mountains county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "scientificname:Choloepus hoffmanni " ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "mountain beaver distance(location,geopoint(44.997090792612845,-116.41347624508126))&lt;775913" ; Times: 1
+	Query: "Chris burke" ; Times: 1
+	Query: "NOTIOSOREX HIDALGO" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "distance(location,geopoint(44.954125234549,-93.1744568655617))&lt;12380" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34; institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "alouatta palliata" ; Times: 2
+	Query: "Ovis canadensis nelsoni" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "antilocapra" ; Times: 6
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949" ; Times: 2
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "Puma concolor" ; Times: 4
+	Query: "16262" ; Times: 1
+	Query: "Microtus richardsoni year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1169 download events in this period)
+Total number of records downloaded: 8335
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Brazil ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-07 ; Times: 8
+	Date: 2018-06-06 ; Times: 8
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-13 ; Times: 4
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "American bullfrog" ; Times: 3
+	Query: "bullfrog" ; Times: 3
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "vntype:specimen family:dipodidae hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "county:&#34;pierce&#34; stateprovince:&#34;washington&#34; continent:North America" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "American Beaver" ; Times: 4
+	Query: "mountain beaver distance(location,geopoint(44.997090792612845,-116.41347624508126))&lt;775913" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "American Bullfrog" ; Times: 1
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
