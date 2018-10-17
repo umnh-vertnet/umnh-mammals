@@ -1,0 +1,199 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 313
+Number of records retrieved in searches: 2230
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 146
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 147
+	Country: Unknown ; Times: 1
+	Country: Lithuania ; Times: 10
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Sri Lanka ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-03 ; Times: 20
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-29 ; Times: 2
+	Date: 2018-07-08 ; Times: 8
+	Date: 2018-07-09 ; Times: 5
+	Date: 2018-07-04 ; Times: 3
+	Date: 2018-07-05 ; Times: 13
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 3
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-27 ; Times: 4
+	Date: 2018-07-24 ; Times: 14
+	Date: 2018-07-25 ; Times: 3
+	Date: 2018-07-13 ; Times: 9
+	Date: 2018-07-12 ; Times: 83
+	Date: 2018-07-11 ; Times: 11
+	Date: 2018-07-10 ; Times: 74
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 11
+	Date: 2018-07-15 ; Times: 4
+	Date: 2018-07-31 ; Times: 10
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-22 ; Times: 4
+	Date: 2018-07-23 ; Times: 11
+	Date: 2018-07-20 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "18318" ; Times: 1
+	Query: "34490" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1940 year &lt;= 1949 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 2
+	Query: "vntype:specimen specificepithet:latrans genus:Canis family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) institutioncode:UMNH" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "18420" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; OR &#34;Minnesota&#34; preparations:skin" ; Times: 5
+	Query: "22763" ; Times: 2
+	Query: "32863" ; Times: 2
+	Query: "specificepithet:lagopus genus:Alopex (skull OR skeleton) AND (NOT fossil) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1890 year &lt;= 1899 institutioncode:UMNH" ; Times: 1
+	Query: "20167" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 2010 year &lt;= 2018 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1840 year &lt;= 1899 institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) year &gt;= 1960 year &lt;= 1969 institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1960 year &lt;= 1969 institutioncode:UMNH" ; Times: 1
+	Query: "29686" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:Canis family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 2000 year &lt;= 2009 institutioncode:UMNH" ; Times: 1
+	Query: "12781" ; Times: 2
+	Query: "13018" ; Times: 1
+	Query: "30999" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1990 year &lt;= 1999 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "33717" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "14616" ; Times: 1
+	Query: "genus:Scalopus stateprovince:Kentucky" ; Times: 1
+	Query: "genus:marmota stateprovince:&#34;nevada&#34;" ; Times: 25
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; preparations: &#34;skin&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 8
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:UMNH" ; Times: 1
+	Query: "19663" ; Times: 1
+	Query: "16129" ; Times: 1
+	Query: "9524" ; Times: 1
+	Query: "26423" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Kane&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "13038" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 2
+	Query: "15899" ; Times: 1
+	Query: "23651" ; Times: 1
+	Query: "19692" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) institutioncode:UMNH" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) year &gt;= 1950 year &lt;= 1959 institutioncode:UMNH" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "UMNH 1624" ; Times: 1
+	Query: "24926" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex (skull OR skeleton) AND (NOT fossil) institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) year &gt;= 1940 year &lt;= 1949 institutioncode:UMNH" ; Times: 1
+	Query: "institutioncode:UMNH" ; Times: 2
+	Query: "&#34;Notiosorex&#34; (Arizona)" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "tamandua mexicana" ; Times: 146
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "neotoma lepida colorado" ; Times: 1
+	Query: "24679" ; Times: 2
+	Query: "genus:Parascalops country:&#34;United States&#34;" ; Times: 1
+	Query: "14651" ; Times: 1
+	Query: "29884" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;White Pine&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "specificepithet:breweri genus:Parascalops country:&#34;United States&#34;" ; Times: 2
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "Puma concolor" ; Times: 13
+	Query: "vntype:specimen specificepithet:latrans genus:Canis family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:UMNH" ; Times: 1
+	Query: "Brachylagus" ; Times: 1
+	Query: "recordedby:John D. Allen" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "19982" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince: Minnesota preparations:skin" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1 distance(location,geopoint(38.698372305893294,-105.8807373046875))&lt;100000" ; Times: 1
+	Query: "39041" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UMNH" ; Times: 1
+	Query: "22213" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1930 year &lt;= 1939 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "26817" ; Times: 2
+	Query: "22740" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34; OR stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959 institutioncode:UMNH" ; Times: 1
+	Query: "13625" ; Times: 1
+	Query: "14764" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1930 year &lt;= 1939 institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1970 year &lt;= 2018 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 2
+	Query: "20055" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 977 download events in this period)
+Total number of records downloaded: 2444
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 4
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-06 ; Times: 4
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; OR &#34;Minnesota&#34; preparations:skin" ; Times: 2
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "genus:marmota stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2003 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34; OR stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "genus:tamiasciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma haslength:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UMNH" ; Times: 1
+
+
+End of report.
