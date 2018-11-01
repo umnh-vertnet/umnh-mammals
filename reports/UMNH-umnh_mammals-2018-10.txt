@@ -1,0 +1,313 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 363
+Number of records retrieved in searches: 4829
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 332
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Singapore ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 6
+	Country: Ireland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 3
+	Date: 2018-10-04 ; Times: 27
+	Date: 2018-10-05 ; Times: 10
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-01 ; Times: 11
+	Date: 2018-10-02 ; Times: 9
+	Date: 2018-10-03 ; Times: 9
+	Date: 2018-10-30 ; Times: 11
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-23 ; Times: 6
+	Date: 2018-10-07 ; Times: 26
+	Date: 2018-10-26 ; Times: 7
+	Date: 2018-10-27 ; Times: 3
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-25 ; Times: 7
+	Date: 2018-10-28 ; Times: 2
+	Date: 2018-10-29 ; Times: 5
+	Date: 2018-10-08 ; Times: 49
+	Date: 2018-10-09 ; Times: 27
+	Date: 2018-10-19 ; Times: 3
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 8
+	Date: 2018-10-11 ; Times: 44
+	Date: 2018-10-10 ; Times: 76
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 3
+	Date: 2018-10-15 ; Times: 8
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Euderma" ; Times: 1
+	Query: "vntype:specimen specificepithet:aries genus:Ovis" ; Times: 1
+	Query: "specificepithet:EREMICUS genus:peromyscus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "22838" ; Times: 1
+	Query: "hydrochoerus" ; Times: 1
+	Query: "genus:Mephitis stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "Natator" ; Times: 1
+	Query: "specificepithet:columbianus genus:Urocitellus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "specificepithet:tridecemlineatus genus:Ictidomys" ; Times: 1
+	Query: "genus:euderma maculatum" ; Times: 1
+	Query: "family:molossidae stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:sabrinus genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:californicus genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "17713" ; Times: 1
+	Query: "Brachylagus idahoensis mappable:1" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:Evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "specificepithet:monax genus:Marmota" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "genus:spilogale stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Herpestes stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 2
+	Query: "specificepithet:beldingi genus:Urocitellus" ; Times: 1
+	Query: "specificepithet:Maculatum genus:Euderma" ; Times: 1
+	Query: "20614" ; Times: 2
+	Query: "specificepithet:pallidus genus:Microdipodops" ; Times: 1
+	Query: "Eptesicus fuscus vntype:specimen stateprovince:&#34;Utah&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:arizonensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:parryii genus:Urocitellus" ; Times: 1
+	Query: "specificepithet:leucurus genus:Cynomys" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;utah&#34; hastissue:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 9
+	Query: "specificepithet:ludovicianus genus:Cynomys" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "specificepithet:variegatus genus:Otospermophilus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Sorex preblei" ; Times: 1
+	Query: "brachylagus" ; Times: 3
+	Query: "specificepithet:tereticaudus genus:Xerospermophilus" ; Times: 7
+	Query: "specificepithet:townsendii genus:Thomomys" ; Times: 1
+	Query: "genus:Tamandua " ; Times: 2
+	Query: "dasypus novemcinctus year &gt;= 1971" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Marmota" ; Times: 1
+	Query: "A-26050" ; Times: 1
+	Query: "recordedby:Köhler" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:cinereus genus:Lasiurus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "genus:bassariscus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:aberti genus:Sciurus" ; Times: 1
+	Query: "specificepithet:variegatus genus:Otospermophilus hasmass:1" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma year &gt;= 1920 year &lt;= 2019" ; Times: 2
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma hastissue:1" ; Times: 1
+	Query: "puma concolor startdayofyear &lt;= 1970" ; Times: 1
+	Query: "erethizon vntype:specimen hastissue:1" ; Times: 1
+	Query: "euderma maculatum" ; Times: 5
+	Query: "specificepithet:richardsoni genus:Microtus" ; Times: 1
+	Query: "Myotis Sodalis" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 4
+	Query: "specificepithet:maculatum genus:euderma hastissue:1" ; Times: 4
+	Query: "Eptesicus fuscus vntype:specimen year &gt;= 2010 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "specificepithet:rufa genus:Aplodontia" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "genus:Euderma maculatum" ; Times: 3
+	Query: "24128" ; Times: 2
+	Query: "specificepithet:gunnisoni genus:Cynomys" ; Times: 1
+	Query: "specificepithet:evotis genus:myotis hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma" ; Times: 62
+	Query: "specificepithet:parvidens genus:Cynomys" ; Times: 1
+	Query: "genus:Euderma maculatum hastissue:1" ; Times: 3
+	Query: "32087" ; Times: 1
+	Query: "continent:North America Cervus elaphus" ; Times: 2
+	Query: "procyon lotor utah" ; Times: 1
+	Query: "catalognumber:42162 hastissue:1" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(44.635320498358325,-88.68871610243627))&lt;49528" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "specificepithet:bulbivorus genus:Thomomys" ; Times: 1
+	Query: "specificepithet:Maculatum genus:Euderma hastissue:1" ; Times: 2
+	Query: "15546" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 7
+	Query: "specificepithet:armatus genus:Urocitellus" ; Times: 1
+	Query: "family:vespertilionidae stateprovince:&#34;utah&#34; hastissue:1" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 2
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 29
+	Query: "specificepithet:sabrinus genus:Glaucomys stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Urocitellus" ; Times: 1
+	Query: "UMNH 35633" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;utah&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 5
+	Query: "leopardus" ; Times: 1
+	Query: "specificepithet:spilosoma genus:Xerospermophilus" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;utah&#34;" ; Times: 2
+	Query: "(38429)" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma hastissue:1" ; Times: 65
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:deserti genus:Dipodomys" ; Times: 1
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma" ; Times: 2
+	Query: "chinchilla mammalia" ; Times: 1
+	Query: "Umnh 5952" ; Times: 1
+	Query: "specificepithet:evotis genus:myotis stateprovince:&#34;utah&#34;" ; Times: 7
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:lanigera genus:Chinchilla" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;utah&#34; hastissue:1" ; Times: 1
+	Query: "17776" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sciurus" ; Times: 1
+	Query: "specificepithet:idahoensis genus:Thomomys" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Glis glis" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis" ; Times: 1
+	Query: "specificepithet:brunneus genus:Urocitellus" ; Times: 6
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "specificepithet:Evotis genus:Myotis hastissue:1" ; Times: 1
+	Query: "specificepithet:insignis genus:Napaeozapus" ; Times: 1
+	Query: "Urocyon cinereoargenteus year &gt;= 1970" ; Times: 2
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "12394" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 152 (out of 1300 download events in this period)
+Total number of records downloaded: 24485
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 24
+	Country: India ; Times: 2
+	Country: United States ; Times: 121
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-30 ; Times: 6
+	Date: 2018-10-05 ; Times: 3
+	Date: 2018-10-07 ; Times: 3
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-04 ; Times: 23
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-23 ; Times: 4
+	Date: 2018-10-21 ; Times: 2
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 4
+	Date: 2018-10-24 ; Times: 5
+	Date: 2018-10-25 ; Times: 4
+	Date: 2018-10-29 ; Times: 4
+	Date: 2018-10-08 ; Times: 5
+	Date: 2018-10-09 ; Times: 16
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-13 ; Times: 3
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-11 ; Times: 14
+	Date: 2018-10-10 ; Times: 34
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 4
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Perimyotis subflavus genus:Perimyotis" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "Felidae" ; Times: 1
+	Query: "Tamias" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "vntype:specimen class:Mammalia county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma hastissue:1" ; Times: 47
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "genus:Mephitis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Chiroptera Oaxaca basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma" ; Times: 4
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; continent:North America" ; Times: 1
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "genus:Euderma maculatum hastissue:1" ; Times: 8
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "specificepithet:evotis genus:myotis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "family:molossidae stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Callospermophilus lateralis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ochotona collaris" ; Times: 1
+	Query: "onychomys torridus AND arizona" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Chiroptera Oaxaca" ; Times: 1
+	Query: "Lasionycteris noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Sorex preblei" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;utah&#34; hastissue:1" ; Times: 1
+	Query: "Ochotona princeps vntype:specimen" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga" ; Times: 1
+	Query: "Myotis sodalis genus:myotis" ; Times: 1
+	Query: "vntype:specimen genus:erethizon" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Myotis septentrionalis genus:myotis" ; Times: 1
+	Query: "onychomys leucogaster AND arizona" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma hastissue:1" ; Times: 3
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "onychomys leucogaster AND new mexico" ; Times: 2
+	Query: "lynx rufus" ; Times: 2
+	Query: "Corynorhinus" ; Times: 1
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 7
+	Query: "specificepithet:cinereus genus:Lasiurus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Tamias OR Neotamias OR Eutamias" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(42.825504361125255,-75.76879422743627))&lt;339749" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "Eptesicus fuscus genus:Eptesicus" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma year &gt;= 1920 year &lt;= 2019" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "genus:spilogale stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "notiosorex crawfordi" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "family:vespertilionidae stateprovince:&#34;utah&#34;" ; Times: 1
+
+
+End of report.
