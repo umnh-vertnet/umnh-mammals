@@ -1,0 +1,324 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 178
+Number of records retrieved in searches: 6217
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 7
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 153
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 9
+	Date: 2018-11-08 ; Times: 4
+	Date: 2018-11-07 ; Times: 21
+	Date: 2018-11-06 ; Times: 18
+	Date: 2018-11-05 ; Times: 6
+	Date: 2018-11-04 ; Times: 8
+	Date: 2018-11-03 ; Times: 13
+	Date: 2018-11-02 ; Times: 4
+	Date: 2018-11-01 ; Times: 7
+	Date: 2018-11-25 ; Times: 6
+	Date: 2018-11-24 ; Times: 2
+	Date: 2018-11-27 ; Times: 5
+	Date: 2018-11-26 ; Times: 5
+	Date: 2018-11-21 ; Times: 9
+	Date: 2018-11-23 ; Times: 5
+	Date: 2018-11-29 ; Times: 5
+	Date: 2018-11-28 ; Times: 3
+	Date: 2018-11-18 ; Times: 5
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-11 ; Times: 7
+	Date: 2018-11-12 ; Times: 15
+	Date: 2018-11-13 ; Times: 1
+	Date: 2018-11-14 ; Times: 8
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-16 ; Times: 5
+	Date: 2018-11-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:40365" ; Times: 1
+	Query: "catalognumber:23628" ; Times: 1
+	Query: "Castor Canadensis vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 4
+	Query: "catalognumber:(11234 OR 123532)" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 4
+	Query: "brachylagus hastissue:1" ; Times: 2
+	Query: "genus:microdipodops county:&#34;Lincoln&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "28101" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "28904" ; Times: 1
+	Query: "stateprovince:&#34;illinois&#34; specificepithet:bursarius genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "27770" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys" ; Times: 6
+	Query: "genus:mephitis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Antilocapra americana americana" ; Times: 2
+	Query: "cervus canadensis" ; Times: 2
+	Query: "Meles meles" ; Times: 2
+	Query: "lontra canadensis" ; Times: 1
+	Query: "28134" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 2
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys" ; Times: 4
+	Query: "specificepithet:maculatum genus:Euderma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:Reithrodontomys" ; Times: 9
+	Query: "13992" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina" ; Times: 3
+	Query: "eonycteris" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 15
+	Query: "specificepithet:montanus genus:Reithrodontomys year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:2461" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 10
+	Query: "catalognumber:33519" ; Times: 2
+	Query: "brachylagus" ; Times: 2
+	Query: "American Curlew" ; Times: 2
+	Query: "genus:bassariscus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "catalognumber:12480" ; Times: 2
+	Query: "catalognumber:40082" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:31127" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Ursus americanus amblyceps" ; Times: 3
+	Query: "33143" ; Times: 1
+	Query: "Castor Canadensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale year &gt;= 2000" ; Times: 1
+	Query: "27647" ; Times: 1
+	Query: "bobcat" ; Times: 3
+	Query: "class:Mammalia continent:Africa" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "specificepithet:tenellus genus:Sorex" ; Times: 1
+	Query: "Spilogale gracilis" ; Times: 4
+	Query: "alouatta" ; Times: 1
+	Query: "genus:bassariscus stateprovince:&#34;utah&#34; hastissue:1" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "15795" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:5093" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "antilocapra americana" ; Times: 1
+	Query: "Tamiasciurus fremonti" ; Times: 5
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "lepus alleni" ; Times: 2
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "41170" ; Times: 1
+	Query: "mephitis mephitis" ; Times: 1
+	Query: "locality:terry county:&#34;washington&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "23341" ; Times: 1
+	Query: "family:vespertilionidae continent:North America institutioncode:UMNH" ; Times: 1
+	Query: "14716" ; Times: 1
+	Query: "genus:Bison" ; Times: 1
+	Query: "catalognumber:2592" ; Times: 1
+	Query: "10760" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 2
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "catalognumber:23638" ; Times: 2
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "Tamiasciurus fremonti mappable:1" ; Times: 10
+	Query: "dasypus novemcinctus" ; Times: 3
+	Query: "catalognumber:11112" ; Times: 1
+	Query: "Alouatta" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma hastissue:1" ; Times: 1
+	Query: "erethizon (ethanol)" ; Times: 2
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 2
+	Query: "genus:dipodomys catalognumber:4713" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 183 (out of 1719 download events in this period)
+Total number of records downloaded: 29300
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 82
+	Country: France ; Times: 1
+	Country: United States ; Times: 87
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 12
+	Date: 2018-11-08 ; Times: 6
+	Date: 2018-11-07 ; Times: 8
+	Date: 2018-11-06 ; Times: 14
+	Date: 2018-11-05 ; Times: 10
+	Date: 2018-11-03 ; Times: 4
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-24 ; Times: 1
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-26 ; Times: 16
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-29 ; Times: 7
+	Date: 2018-11-28 ; Times: 1
+	Date: 2018-11-18 ; Times: 3
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-11 ; Times: 10
+	Date: 2018-11-12 ; Times: 19
+	Date: 2018-11-13 ; Times: 5
+	Date: 2018-11-14 ; Times: 22
+	Date: 2018-11-15 ; Times: 36
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bilobatum genus:Uroderma" ; Times: 1
+	Query: "genus:Tamandua mexicana" ; Times: 1
+	Query: "genus:Didelphis virginiana" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Panthera onca" ; Times: 1
+	Query: "specificepithet:narica genus:Nasua" ; Times: 1
+	Query: "Sciurinae" ; Times: 2
+	Query: "&#34;neotoma micropus&#34;" ; Times: 1
+	Query: "Lepus californicus" ; Times: 2
+	Query: "Nasua narica" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "pecari tajacu" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "Panthera onca" ; Times: 3
+	Query: "Canis latrans" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "genus:Eira barbara" ; Times: 1
+	Query: "stateprovince:&#34;illinois&#34; specificepithet:bursarius genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 3
+	Query: "lontra canadensis" ; Times: 3
+	Query: "panthera onca" ; Times: 3
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "Chaetodipus baileyi" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "genus:Carollia perspicillata" ; Times: 2
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "meles meles" ; Times: 1
+	Query: "genus:Alouatta palliata" ; Times: 3
+	Query: "genus:Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "baculum vntype:specimen order:Carnivora" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "vntype:specimen specificepithet:crinitus genus:Peromyscus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Puma hassex:1" ; Times: 1
+	Query: "genus:Urocyon cinereoargenteus" ; Times: 1
+	Query: "vntype:specimen specificepithet:hoyi genus:Sorex lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "specificepithet:rotundus genus:Desmodus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga year &gt;= 1950 year &lt;= 2018" ; Times: 2
+	Query: "Chaetodipus californicus" ; Times: 2
+	Query: "genus:Mormoops megalophylla" ; Times: 1
+	Query: "genus:Peromyscus leucopus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 2
+	Query: "Lepus californicus californicus" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "Sorex hoyi vntype:specimen lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Mustela frenata" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari" ; Times: 1
+	Query: "procyon" ; Times: 3
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Ursus americanus amblyceps" ; Times: 6
+	Query: "reithrodontomys montanus" ; Times: 1
+	Query: "Castor Canadensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:Sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:barbara genus:Eira" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Sigmodon hispidus" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 2
+	Query: "ursus americanus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:soricina genus:Glossophaga" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "order:CHIROPTERA country:&#34;MEXICO&#34; continent:AMERICA" ; Times: 1
+	Query: "Neotoma stephensi" ; Times: 1
+	Query: "specificepithet:opossum genus:Philander" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; NOT (magister)" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "genus:Puma concolor" ; Times: 2
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "genus:Desmodus rotundus" ; Times: 2
+	Query: "specificepithet:maculatum genus:Euderma" ; Times: 1
+	Query: "genus:Pecari tajacu" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "island specificepithet:maniculatus genus:peromyscus" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "antilocapra americana" ; Times: 1
+	Query: "specificepithet:intermedius genus:Chaetodipus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "genus:Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:mexicana genus:Marmosa" ; Times: 1
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "genus:Philander opossum" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "genus:Canis latrans" ; Times: 1
+	Query: "family:vespertilionidae continent:North America institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "specificepithet:mexicana genus:Tamandua" ; Times: 1
+	Query: "Castor Canadensis" ; Times: 1
+	Query: "genus:Uroderma bilobatum" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "genus:Glossophaga soricina" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "Ursus americanus americanus" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga" ; Times: 2
+	Query: "lepus californicus" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma hastissue:1" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:megalophylla genus:Mormoops" ; Times: 1
+	Query: "genus:Artibeus jamaicensis" ; Times: 2
+	Query: "genus:Dasypus novemcinctus" ; Times: 2
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "genus:Nasua narica" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "genus:Marmosa mexicana" ; Times: 1
+
+
+End of report.
