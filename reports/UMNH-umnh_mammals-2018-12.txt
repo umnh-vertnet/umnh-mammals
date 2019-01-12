@@ -1,0 +1,214 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 952
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 107
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 4
+	Date: 2018-12-19 ; Times: 7
+	Date: 2018-12-18 ; Times: 4
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-14 ; Times: 12
+	Date: 2018-12-17 ; Times: 7
+	Date: 2018-12-11 ; Times: 9
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-13 ; Times: 4
+	Date: 2018-12-12 ; Times: 13
+	Date: 2018-12-20 ; Times: 4
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-09 ; Times: 3
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 5
+	Date: 2018-12-04 ; Times: 24
+	Date: 2018-12-05 ; Times: 9
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 6
+	Date: 2018-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera  tigris" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "27950" ; Times: 2
+	Query: "sorex 35768" ; Times: 2
+	Query: "leopardus" ; Times: 1
+	Query: "19858" ; Times: 1
+	Query: "sorex 35646" ; Times: 2
+	Query: "vntype:specimen specificepithet:latrans genus:Canis family:Canidae year &gt;= 1890 year &lt;= 1899 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sorex 39155" ; Times: 2
+	Query: "25721" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "37809" ; Times: 1
+	Query: "Procyon lotor hastissue:1" ; Times: 4
+	Query: "16431" ; Times: 3
+	Query: "32115" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "specificepithet:evotis genus:myotis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;chaffee&#34; stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:canis family:Canidae stateprovince:&#34;utah&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tupaia glis" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes family:Canidae year &gt;= 1890 year &lt;= 1899 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sorex preblei" ; Times: 3
+	Query: "specificepithet:griseus genus:Sciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex" ; Times: 1
+	Query: "sorex 32115" ; Times: 2
+	Query: "tamandua mappable:1" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes family:Canidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae county:&#34;Mohave&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae county:&#34;washington&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 9
+	Query: "Puma concolor mappable:1" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus family:ursidae stateprovince:&#34;Wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:concolor genus:puma year &gt;= 1800 year &lt;= 1900" ; Times: 2
+	Query: "Thomomys bulbivorus" ; Times: 1
+	Query: "sorex 35387" ; Times: 2
+	Query: "Halichoerus" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 2
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "bison bison utah" ; Times: 1
+	Query: "macroura vntype:specimen specificepithet:vulpes genus:vulpes family:Canidae year &gt;= 1890 year &lt;= 1899 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes family:Canidae stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "34884" ; Times: 1
+	Query: "34885" ; Times: 2
+	Query: "Vulpes vulpes colorado" ; Times: 1
+	Query: "33307" ; Times: 2
+	Query: "19926" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes family:Canidae stateprovince:&#34;Colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "15623" ; Times: 1
+	Query: "Tamiasciurus fremonti mappable:1" ; Times: 2
+	Query: "specificepithet:TOWNSENDII genus:lepus year &gt;= 1976" ; Times: 1
+	Query: "Mephitis mephitis hastissue:1" ; Times: 1
+	Query: "sorex 35679" ; Times: 2
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "35439" ; Times: 1
+	Query: "10379" ; Times: 1
+	Query: "Peromyscus maniculatus bairdii hastissue:1" ; Times: 1
+	Query: "Microtus richardsoni hastissue:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "genus:Corynorhinus county:&#34;Eddy&#34;" ; Times: 2
+	Query: "vulpes vulpes colorado" ; Times: 1
+	Query: "sorex merriami" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (kodiak) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:concolor genus:puma year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "19477" ; Times: 1
+	Query: "39747" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "specificepithet:megacephalus genus:microdipodops county:&#34;White Pine&#34; stateprovince:&#34;nevada&#34;" ; Times: 4
+	Query: "alascensis vntype:specimen specificepithet:vulpes genus:vulpes family:Canidae year &gt;= 1890 year &lt;= 1899 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Halichoerus grypus mappable:1" ; Times: 1
+	Query: "sorex tenellus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon family:Canidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "&#34;1954-08-09&#34;" ; Times: 4
+	Query: "specificepithet:latrans genus:Canis family:Canidae stateprovince:&#34;idaho&#34;" ; Times: 1
+	Query: "13139" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "12281" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 809 download events in this period)
+Total number of records downloaded: 5780
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 30
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 6
+	Country: France ; Times: 1
+	Country: United States ; Times: 17
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-09 ; Times: 15
+	Date: 2018-12-10 ; Times: 10
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 3
+	Date: 2018-12-18 ; Times: 4
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 7
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-04 ; Times: 4
+	Date: 2018-12-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "class:Mammalia county:&#34;fresno&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "Peromyscus nasutus mexico" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "eira barbara" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "Vulpes vulpes colorado" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Chaetodipus hispidus" ; Times: 2
+
+
+End of report.
