@@ -1,0 +1,247 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 217
+Number of records retrieved in searches: 1768
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 10
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 170
+	Country: Belgium ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 11
+	Date: 2019-01-23 ; Times: 8
+	Date: 2019-01-26 ; Times: 3
+	Date: 2019-01-18 ; Times: 7
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 15
+	Date: 2019-01-15 ; Times: 14
+	Date: 2019-01-30 ; Times: 7
+	Date: 2019-01-17 ; Times: 9
+	Date: 2019-01-10 ; Times: 8
+	Date: 2019-01-11 ; Times: 9
+	Date: 2019-01-12 ; Times: 6
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-02 ; Times: 4
+	Date: 2019-01-29 ; Times: 21
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-07 ; Times: 6
+	Date: 2019-01-04 ; Times: 9
+	Date: 2019-01-21 ; Times: 3
+	Date: 2019-01-20 ; Times: 7
+	Date: 2019-01-09 ; Times: 3
+	Date: 2019-01-22 ; Times: 17
+	Date: 2019-01-25 ; Times: 17
+	Date: 2019-01-24 ; Times: 16
+	Date: 2019-01-27 ; Times: 4
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sorex tenellus vntype:specimen year &gt;= 2005 institutioncode:UMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 4
+	Query: "specificepithet:striatus genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "specificepithet:elegans genus:Urocitellus stateprovince:&#34;Colorado&#34;" ; Times: 5
+	Query: "specificepithet:musculus genus:Mus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 5
+	Query: "&#34;alces americanus&#34;" ; Times: 1
+	Query: "ovis canadensis umnh" ; Times: 1
+	Query: "20371" ; Times: 1
+	Query: "10812" ; Times: 1
+	Query: "(11966)" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 4
+	Query: "16464" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "specificepithet:palmeri genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:flaviventris genus:marmota stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "16264" ; Times: 1
+	Query: "genus:Herpestes stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "13877" ; Times: 1
+	Query: "umnh oreamnos" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "specificepithet:tridecemlineatus genus:ictidomys stateprovince:&#34;colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "sorex tenellus year &gt;= 2000 institutioncode:UMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:sibiricus genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:elegans genus:urocitellus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "notiosorex hidalgo" ; Times: 4
+	Query: "16565" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "Sorex tenellus vntype:specimen year &gt;= 2005 hastissue:1" ; Times: 1
+	Query: "15284" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 7
+	Query: "13917" ; Times: 1
+	Query: "&#34;Ursus arctos horribilis&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 6
+	Query: "21773" ; Times: 1
+	Query: "15827" ; Times: 1
+	Query: "sorex preblei vntype:specimen year &gt;= 2005 hastissue:1" ; Times: 2
+	Query: "genus:Alopex" ; Times: 7
+	Query: "18466" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "31794" ; Times: 1
+	Query: "sorex merriami stateprovince:&#34;nevada&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison stateprovince:&#34;Utah&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias" ; Times: 2
+	Query: "16408" ; Times: 1
+	Query: "warreni" ; Times: 3
+	Query: "35292" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias institutioncode:UMNH" ; Times: 2
+	Query: "sorex tenellus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Microtus richardsoni hastissue:1" ; Times: 1
+	Query: "22239" ; Times: 1
+	Query: "22236" ; Times: 1
+	Query: "22237" ; Times: 1
+	Query: "22235" ; Times: 1
+	Query: "order:carnivora stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "sorex preblei year &gt;= 2000 hastissue:1" ; Times: 2
+	Query: "11225" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus hastissue:1" ; Times: 1
+	Query: "sorex merriami" ; Times: 3
+	Query: "specificepithet:quadrimaculatus genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "umnh capra hircus" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "12623" ; Times: 1
+	Query: "26287" ; Times: 1
+	Query: "microtus richardsoni hastissue:1" ; Times: 2
+	Query: "22121" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:rufus genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "&#34;Antilocapra americana&#34;" ; Times: 1
+	Query: "genus:herpestes order:carnivora stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "Sorex preblei year &gt;= 2005 hastissue:1" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "sorex merriami stateprovince:&#34;nevada&#34; year &gt;= 2015 hastissue:1" ; Times: 1
+	Query: "12343" ; Times: 2
+	Query: "specificepithet:umbrinus genus:tamias" ; Times: 2
+	Query: "sorex preblei stateprovince:&#34;nevada&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus year &gt;= 2010 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "sorex hoyi new hampshire" ; Times: 1
+	Query: "specificepithet:senex genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "ovis aries umnh" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "catalognumber:18450 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:palmeri genus:tamias" ; Times: 1
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:UMNH" ; Times: 2
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "Sorex merriami year &gt;= 2005 hastissue:1" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "15171" ; Times: 1
+	Query: "umnh bos taurus" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "35646 sorex" ; Times: 1
+	Query: "sorex preblei" ; Times: 1
+	Query: "specificepithet:sibiricus genus:tamias" ; Times: 1
+	Query: "albicaudatus" ; Times: 1
+	Query: "alces americanus" ; Times: 2
+	Query: "class:Mammalia county:&#34;calcasieu&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 962 download events in this period)
+Total number of records downloaded: 2366
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 3
+	Country: United States ; Times: 27
+	Country: Ecuador ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 3
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 3
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-29 ; Times: 4
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-31 ; Times: 3
+	Date: 2019-01-30 ; Times: 5
+	Date: 2019-01-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "genus:Ochotona hastissue:1" ; Times: 1
+	Query: "genus:Alopex" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "hastissue:1 peromyscus boylii" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "specificepithet:elegans genus:urocitellus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:flaviventris genus:marmota stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:subflavus genus:Perimyotis mappable:1 year&gt;=1948 year&lt;=2019" ; Times: 1
+	Query: "genus:Herpestes stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "order:perissodactyla" ; Times: 1
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:lateralis genus:callospermophilus" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 2
+	Query: "hastissue:1 peromyscus truei" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "class:Mammalia county:&#34;calcasieu&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "genus:herpestes order:carnivora stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Uroderma convexum" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus family:Cricetidae hastissue:1" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Minnesota Blarina" ; Times: 2
+
+
+End of report.
