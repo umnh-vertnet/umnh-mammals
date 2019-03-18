@@ -1,0 +1,238 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 221
+Number of records retrieved in searches: 5807
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 193
+	Country: Netherlands ; Times: 2
+	Country: Belgium ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 3
+	Date: 2019-02-23 ; Times: 6
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-13 ; Times: 52
+	Date: 2019-02-12 ; Times: 3
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-14 ; Times: 5
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-16 ; Times: 4
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 3
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-26 ; Times: 6
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-20 ; Times: 17
+	Date: 2019-02-07 ; Times: 5
+	Date: 2019-02-04 ; Times: 8
+	Date: 2019-02-05 ; Times: 18
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-09 ; Times: 2
+	Date: 2019-02-28 ; Times: 12
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-27 ; Times: 4
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-21 ; Times: 60
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Nevada&#34; institutioncode:UMNH" ; Times: 1
+	Query: "cynomys ludovicianus" ; Times: 1
+	Query: "39155 sorex hastissue:1" ; Times: 2
+	Query: "notiosorex year &gt;= 2010 hastissue:1" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 16
+	Query: "genus:Sorex stateprovince:&#34;Nevada&#34; institutioncode:UMNH hastissue:1" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "genus:Notiosorex institutioncode:UMNH" ; Times: 1
+	Query: "38689 sorex hastissue:1" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;Emery&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Weber&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "38690 sorex hastissue:1" ; Times: 1
+	Query: "Sorex monticolus vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "40549 sorex hastissue:1" ; Times: 1
+	Query: "specificepithet:poeyi genus:Phyllonycteris" ; Times: 1
+	Query: "32405 sorex hastissue:1" ; Times: 1
+	Query: "preblei vntype:specimen family:Soricidae stateprovince:&#34;Nevada&#34; institutioncode:UMNH" ; Times: 1
+	Query: "25217" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "A 34615" ; Times: 1
+	Query: "1700s" ; Times: 1
+	Query: "genus:Sorex stateprovince:&#34;Nevada&#34; institutioncode:UMNH" ; Times: 2
+	Query: "38690 sorex institutioncode:UMNH" ; Times: 2
+	Query: "alouatta palliata" ; Times: 5
+	Query: "euderma" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "EAR 10087 sorex hastissue:1" ; Times: 1
+	Query: "sorex 32115 institutioncode:UMNH" ; Times: 2
+	Query: "Sorex merriami vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UMNH" ; Times: 1
+	Query: "Tamias quadrimaculatus" ; Times: 1
+	Query: "Blarina" ; Times: 2
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;Daggett&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 5
+	Query: "12010" ; Times: 1
+	Query: "35646 sorex hastissue:1" ; Times: 1
+	Query: "17499" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "18081" ; Times: 1
+	Query: "Sorex preblei" ; Times: 1
+	Query: "sorex preblei hastissue:1" ; Times: 2
+	Query: "Sorex tenellus vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Sorex preblei vntype:specimen institutioncode:UMNH" ; Times: 1
+	Query: "31717 sorex hastissue:1" ; Times: 1
+	Query: "35768 sorex hastissue:1" ; Times: 3
+	Query: "sorex 39155 institutioncode:UMNH" ; Times: 1
+	Query: "32777" ; Times: 2
+	Query: "sorex 35768 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "34463 sorex hastissue:1" ; Times: 2
+	Query: "Sorex vagrans vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "american mink" ; Times: 2
+	Query: "27799" ; Times: 1
+	Query: "euderma maculatum" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;Box Elder&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "32706 sorex hastissue:1" ; Times: 2
+	Query: "Ochotona princeps" ; Times: 37
+	Query: "&#34;Oreamnos americanus&#34;" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "specificepithet:noctivagans genus:Lasionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "eptesicus fuscus hastissue:1" ; Times: 1
+	Query: "39818 sorex hastissue:1" ; Times: 2
+	Query: "31887" ; Times: 2
+	Query: "35387 sorex hastissue:1" ; Times: 2
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Nevada&#34; institutioncode:UMNH" ; Times: 5
+	Query: "ALOUATTA PALLIATA" ; Times: 2
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "39160 sorex hastissue:1" ; Times: 3
+	Query: "32402" ; Times: 1
+	Query: "35679 sorex hastissue:1" ; Times: 1
+	Query: "41343 sorex hastissue:1" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "32115 sorex hastissue:1" ; Times: 2
+	Query: "sorex preblei year &gt;= 2005 hastissue:1" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Tooele&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:Sorex institutioncode:UMNH" ; Times: 1
+	Query: "Sorex palustris vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;Uintah&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "sorex 35387 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:cinereus institutioncode:UMNH" ; Times: 2
+	Query: "32115" ; Times: 1
+	Query: "notiosorex year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "catalognumber:30040" ; Times: 2
+	Query: "sorex institutioncode:UMNH" ; Times: 4
+	Query: "39166 sorex hastissue:1" ; Times: 2
+	Query: "EAR 6165 sorex hastissue:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "13463" ; Times: 1
+	Query: "39436 sorex hastissue:1" ; Times: 3
+	Query: "sorex merriami stateprovince:&#34;nevada&#34; year &gt;= 2010 hastissue:1" ; Times: 1
+	Query: "myotis evotis hastissue:1" ; Times: 1
+	Query: "Butterfly" ; Times: 1
+	Query: "sorex preblei stateprovince:&#34;nevada&#34; hastissue:1" ; Times: 2
+	Query: "35646 sorex institutioncode:UMNH" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Sorex preblei vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "ochotona institutioncode:UMNH" ; Times: 2
+	Query: "Sorex preblei stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "35679 sorex institutioncode:UMNH" ; Times: 2
+	Query: "1951-800" ; Times: 1
+	Query: "Lepus alleni" ; Times: 5
+	Query: "30596" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "poliocitellus" ; Times: 1
+	Query: "13701" ; Times: 1
+	Query: "38689 sorex institutioncode:UMNH" ; Times: 2
+	Query: "sorex preblei year &gt;= 2010 hastissue:1" ; Times: 1
+	Query: "nuttallii stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1227 download events in this period)
+Total number of records downloaded: 7008
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 23
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 8
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-14 ; Times: 12
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "Sorex merriami vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "canis lupus Mexico" ; Times: 1
+	Query: "Sorex preblei vntype:specimen institutioncode:UMNH" ; Times: 2
+	Query: "Neotoma albigula vntype:specimen" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UMNH" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "ALOUATTA PALLIATA" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "Sorex monticolus vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "sorex institutioncode:UMNH" ; Times: 2
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Sorex preblei vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "neotoma stephensi" ; Times: 4
+	Query: "poliocitellus" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "Lepus alleni" ; Times: 2
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Atelerix albiventris" ; Times: 2
+	Query: "Sorex vagrans vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sorex palustris vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:cinereus institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "Sorex tenellus vntype:specimen stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+
+End of report.
