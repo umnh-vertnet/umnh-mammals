@@ -1,0 +1,226 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 143
+Number of records retrieved in searches: 1789
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: United States ; Times: 97
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: United Kingdom ; Times: 5
+	Country: Switzerland ; Times: 7
+	Country: Guatemala ; Times: 3
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 11
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 5
+	Date: 2019-04-05 ; Times: 5
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-12 ; Times: 11
+	Date: 2019-04-11 ; Times: 8
+	Date: 2019-04-10 ; Times: 12
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-16 ; Times: 6
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-30 ; Times: 13
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-02 ; Times: 4
+	Date: 2019-04-22 ; Times: 7
+	Date: 2019-04-23 ; Times: 5
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-21 ; Times: 4
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-24 ; Times: 14
+	Date: 2019-04-25 ; Times: 4
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 4
+	Date: 2019-04-08 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "21264" ; Times: 2
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "stateprovince:&#34;utah&#34; recordedby:hansen year &gt;= 1930 year &lt;= 1940" ; Times: 1
+	Query: "Myotis septentrionalis year &lt;= 1970" ; Times: 2
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Minnesota&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:poeyi genus:Phyllonycteris" ; Times: 1
+	Query: "Alces americanus" ; Times: 1
+	Query: "primates costa rica" ; Times: 6
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "specificepithet:obscurus class:mammalia institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "beaver dam wash" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:xerospermophilus" ; Times: 2
+	Query: "genus:xerospermophilus class:mammalia institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "23672" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes preparations:ethanol" ; Times: 1
+	Query: "scientificname:Equus caballus " ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 15
+	Query: "35131" ; Times: 1
+	Query: "35132" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "33461" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;maine&#34; institutioncode:UMNH" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "american mink" ; Times: 3
+	Query: "12171 class:mammalia" ; Times: 2
+	Query: "stateprovince:&#34;utah&#34; recordedby:hansen" ; Times: 1
+	Query: "Leopardus geoffroyi mappable:1" ; Times: 3
+	Query: "18900" ; Times: 1
+	Query: "30033" ; Times: 2
+	Query: "Pecari tajacu mappable:1" ; Times: 3
+	Query: "specificepithet:tereticaudus genus:xerospermophilus class:mammalia institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus institutioncode:UMNH hastissue:1" ; Times: 2
+	Query: "Brown trout" ; Times: 2
+	Query: "bobcat" ; Times: 1
+	Query: "genus:tamias class:mammalia institutioncode:UMNH" ; Times: 1
+	Query: "30150 class:Mammalia" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus hastissue:1" ; Times: 1
+	Query: "30033 class:Mammalia" ; Times: 1
+	Query: "M-5742" ; Times: 1
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "30274 mammalia" ; Times: 1
+	Query: "12171 order:rodentia" ; Times: 1
+	Query: "genus:Spilogale institutioncode:UMNH" ; Times: 1
+	Query: "UMNH 12757" ; Times: 1
+	Query: "25148" ; Times: 1
+	Query: "10313" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;clark&#34; stateprovince:&#34;nevada&#34; hastissue:1" ; Times: 1
+	Query: "mamm 28459" ; Times: 1
+	Query: "11235" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "12171 class:Mammalia" ; Times: 3
+	Query: "genus:Conepatus institutioncode:UMNH" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "specificepithet:megalophylla genus:mormoops stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "UMNH 12575" ; Times: 2
+	Query: "Panthera onca Guatemala" ; Times: 3
+	Query: "specificepithet:merriami class:mammalia institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "genus:Mephitis institutioncode:UMNH" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "16987" ; Times: 1
+	Query: "(mustela frenata)" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Wisconsin&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;new hampshire&#34; institutioncode:UMNH" ; Times: 1
+	Query: "Mustela frenata" ; Times: 8
+	Query: "Otospermophilus beecheyi Washington" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:xerospermophilus institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "25385 class:Mammalia" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 3
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "30030 class:Mammalia" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1263 download events in this period)
+Total number of records downloaded: 3352
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 10
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-14 ; Times: 2
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-30 ; Times: 6
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-02 ; Times: 28
+	Date: 2019-04-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "canis lupus (mexico)" ; Times: 2
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "&#34;Microtus californicus&#34;" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Panthera onca Guatemala" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Minnesota&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "Alces americanus" ; Times: 2
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "primates costa rica" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "NYCTINOMOPS macrotis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Parastrellus hesperus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "specificepithet:megalophylla genus:mormoops stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
