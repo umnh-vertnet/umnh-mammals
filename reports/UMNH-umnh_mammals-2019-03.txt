@@ -1,0 +1,184 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 1926
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 86
+	Country: Netherlands ; Times: 11
+	Country: Denmark ; Times: 19
+	Country: Finland ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-22 ; Times: 3
+	Date: 2019-03-27 ; Times: 4
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-08 ; Times: 10
+	Date: 2019-03-21 ; Times: 9
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-06 ; Times: 8
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-02 ; Times: 2
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-31 ; Times: 11
+	Date: 2019-03-18 ; Times: 5
+	Date: 2019-03-19 ; Times: 10
+	Date: 2019-03-16 ; Times: 3
+	Date: 2019-03-14 ; Times: 6
+	Date: 2019-03-28 ; Times: 9
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-13 ; Times: 22
+	Date: 2019-03-10 ; Times: 4
+	Date: 2019-03-11 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "15384" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 2
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 2
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "genus:Dasypus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "15088" ; Times: 1
+	Query: "13871" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "specificepithet:crinitus genus:Peromyscus stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 2
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "(Antilocapra americana)" ; Times: 2
+	Query: "25563" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "catalognumber:30626 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "waldron" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "neovison vison" ; Times: 7
+	Query: "stateprovince:&#34;hawaii&#34; institutioncode:UMNH" ; Times: 1
+	Query: "39771" ; Times: 1
+	Query: "catalognumber:5545 institutioncode:UMNH" ; Times: 1
+	Query: "25127" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Kane&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Microtus montanus hasmass:1" ; Times: 7
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 4
+	Query: "Puma concolor mappable:1" ; Times: 19
+	Query: "gbifdatasetid:06a00852-f764-4fb8-80d4-ca51f0918459" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "vntype:specimen specificepithet:macrotis genus:Vulpes family:Canidae county:&#34;beaver&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "11583" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 3
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "12219" ; Times: 1
+	Query: "12218" ; Times: 1
+	Query: "nevadensis vntype:specimen specificepithet:macrotis genus:Vulpes family:Canidae" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "37157" ; Times: 1
+	Query: "Butterfly" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 4
+	Query: "vntype:specimen specificepithet:macrotis genus:Vulpes family:Canidae county:&#34;Tooele&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "Blarina" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 2
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "20284" ; Times: 1
+	Query: "Tupaia glis" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:macrotis genus:Vulpes family:Canidae county:&#34;Juab&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "genus:Castor county:&#34;White Pine&#34; institutioncode:UMNH" ; Times: 1
+	Query: "genus:Ochotona catalognumber:41288" ; Times: 1
+	Query: "genus:Ochotona catalognumber:41289" ; Times: 1
+	Query: "21113" ; Times: 1
+	Query: "genus:Dasypus hastissue:1" ; Times: 1
+	Query: "muricus erminea" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "RBS 1738" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;washington&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "class:Mammalia catalognumber:15926" ; Times: 1
+	Query: "38014" ; Times: 1
+	Query: "Napeozapus insignis" ; Times: 2
+	Query: "33977" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "catalognumber:25992" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1281 download events in this period)
+Total number of records downloaded: 1293
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Brazil ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-11 ; Times: 3
+	Date: 2019-03-19 ; Times: 3
+	Date: 2019-03-08 ; Times: 11
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-22 ; Times: 3
+	Date: 2019-03-21 ; Times: 2
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-06 ; Times: 2
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 1
+	Query: "macropus" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "Tupaia glis" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "specificepithet:vison genus:neovison" ; Times: 1
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:erminea arctica genus:mustela" ; Times: 1
+	Query: "specificepithet:americana origenes genus:martes" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;washington&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+
+
+End of report.
