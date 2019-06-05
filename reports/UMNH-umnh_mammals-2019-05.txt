@@ -1,0 +1,152 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 375
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 70
+	Country: Australia ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 4
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-20 ; Times: 7
+	Date: 2019-05-23 ; Times: 5
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-14 ; Times: 5
+	Date: 2019-05-31 ; Times: 3
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-19 ; Times: 2
+	Date: 2019-05-09 ; Times: 3
+	Date: 2019-05-08 ; Times: 16
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-06 ; Times: 5
+	Date: 2019-05-05 ; Times: 5
+	Date: 2019-05-07 ; Times: 3
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-01 ; Times: 12
+	Date: 2019-05-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2031 institutioncode:UMNH" ; Times: 1
+	Query: "31985" ; Times: 1
+	Query: "catalognumber:3819 institutioncode:UMNH" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "sorex cinereus stateprovince:&#34;utah&#34; year &gt;= 2007 hastissue:1" ; Times: 1
+	Query: "EAR 5166" ; Times: 1
+	Query: "sorex 41343" ; Times: 2
+	Query: "notiosorex 40456" ; Times: 4
+	Query: "sorex hoyi" ; Times: 2
+	Query: "alascensis specificepithet:vulpes genus:Vulpes year &gt;= 1840 year &lt;= 1929" ; Times: 1
+	Query: "Cynomys parvidens" ; Times: 2
+	Query: "11225" ; Times: 1
+	Query: "specificepithet:columbianus genus:Urocitellus" ; Times: 1
+	Query: "sorex cinereus stateprovince:&#34;utah&#34; year &gt;= 2010 hastissue:1" ; Times: 1
+	Query: "14580" ; Times: 1
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 1
+	Query: "catalognumber:13842 institutioncode:UMNH" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Scapanus latimanus" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 14
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 2
+	Query: "EAR 5185" ; Times: 2
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Boise stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Canis lupus familiaris mappable:1 year&gt;=1970 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "catalognumber:22832 institutioncode:UMNH" ; Times: 1
+	Query: "Leopardus geoffroyi mappable:1" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "31934" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "34176" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma hasmass:1" ; Times: 1
+	Query: "sorex 39166" ; Times: 2
+	Query: "24880" ; Times: 1
+	Query: "sorex 39161" ; Times: 2
+	Query: "institutioncode:umnh" ; Times: 1
+	Query: "antilocapra americana" ; Times: 1
+	Query: "phyllonycteris poeyi" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "genus:Ochotona catalognumber:41288" ; Times: 2
+	Query: "39150" ; Times: 1
+	Query: "10408 Peromyscus" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 3
+	Query: "genus:ochotona distance(location,geopoint(39.11607309771916,-120.05379999705497))&lt;49754" ; Times: 1
+	Query: "sorex 39926" ; Times: 2
+	Query: "catalognumber:3913 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;chaffee&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "18900" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 940 download events in this period)
+Total number of records downloaded: 2247
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-06 ; Times: 6
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 2
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Puma concolor" ; Times: 2
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "class:Mammalia locality:Big Bend distance(location,geopoint(29.111422091330006,-103.18072768657356))&lt;49192" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "class:Mammalia stateprovince:Oregon" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 1
+
+
+End of report.
