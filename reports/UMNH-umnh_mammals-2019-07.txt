@@ -1,0 +1,199 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 1269
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: Nepal ; Times: 3
+	Country: United States ; Times: 105
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-19 ; Times: 6
+	Date: 2019-07-08 ; Times: 20
+	Date: 2019-07-12 ; Times: 4
+	Date: 2019-07-13 ; Times: 2
+	Date: 2019-07-10 ; Times: 7
+	Date: 2019-07-16 ; Times: 8
+	Date: 2019-07-17 ; Times: 6
+	Date: 2019-07-14 ; Times: 2
+	Date: 2019-07-15 ; Times: 5
+	Date: 2019-07-02 ; Times: 8
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-23 ; Times: 6
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-21 ; Times: 2
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-24 ; Times: 3
+	Date: 2019-07-01 ; Times: 3
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-03 ; Times: 6
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-07 ; Times: 5
+	Date: 2019-07-06 ; Times: 15
+	Date: 2019-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "A.31512" ; Times: 1
+	Query: "genus:Tarsipes specificepithet:rostratus" ; Times: 1
+	Query: "genus:Sciurus specificepithet:vulgaris" ; Times: 1
+	Query: "2 MI S TAYLOR Peromyscus" ; Times: 1
+	Query: "specificepithet:truei county:&#34;Uintah&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UMNH" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 1
+	Query: "specificepithet:yumanensis genus:Myotis class:Mammalia county:&#34;San Diego&#34;" ; Times: 2
+	Query: "genus:microdipodops class:MAMMALIA locality:fallon" ; Times: 1
+	Query: "Vulpes macrotis mappable:1" ; Times: 2
+	Query: "specificepithet:borealis genus:lasiurus county:&#34;hidalgo&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "17380" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "genus:scapanus family:talpidae class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "20059" ; Times: 1
+	Query: "specificepithet:idahoensis genus:Thomomys hastissue:1" ; Times: 1
+	Query: "American Mink" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aberti" ; Times: 1
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 14
+	Query: "gbifdatasetid:06a00852-f764-4fb8-80d4-ca51f0918459" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus institutioncode:UMNH" ; Times: 1
+	Query: "Cynomys parvidens mappable:1" ; Times: 1
+	Query: "12108" ; Times: 1
+	Query: "country:&#34;United States&#34; panthera tigris" ; Times: 1
+	Query: "Myotis sodalis mappable:1" ; Times: 2
+	Query: "Panthera onca" ; Times: 5
+	Query: "genus:lepus class:MAMMALIA locality:beaver" ; Times: 1
+	Query: "genus:Poliocitellus specificepithet:franklinii" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "genus:Lasionycteris specificepithet:noctivagans" ; Times: 1
+	Query: "genus:Lemmiscus year &gt;= 2004" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "genus:Alopex" ; Times: 3
+	Query: "Cervus canadensis" ; Times: 3
+	Query: "county:&#34;White Pine&#34; institutioncode:UMNH" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "genus:Lemmiscus year &gt;= 2004 year &lt;= 2004" ; Times: 2
+	Query: "genus:Napaeozapus specificepithet:insignis" ; Times: 1
+	Query: "Poliocitellus franklinii mappable:1" ; Times: 1
+	Query: "vntype:specimen (spirit)" ; Times: 1
+	Query: "specificepithet:idahoensis genus:Brachylagus" ; Times: 3
+	Query: "genus:Glaucomys specificepithet:sabrinus" ; Times: 1
+	Query: "class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:UMNH" ; Times: 1
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:UMNH" ; Times: 2
+	Query: "genus:microdipodops class:MAMMALIA locality:fallon year &gt;= 1966" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "Euderma maculatum" ; Times: 3
+	Query: "Myotis septentrionalis mappable:1" ; Times: 2
+	Query: "specificepithet:palustris county:&#34;uintah&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Brachylagus idahoensis mappable:1" ; Times: 2
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New Hampshire&#34;" ; Times: 2
+	Query: "order:chiroptera class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "specificepithet:townsendii genus:Thomomys hastissue:1" ; Times: 1
+	Query: "genus:Phyllostomus specificepithet:hastatus" ; Times: 1
+	Query: "Bos taurus mappable:1" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Antrozous" ; Times: 1
+	Query: "genus:Lasiurus county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis county:&#34;uintah&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "&#34;glaucomys sabrinus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "29240" ; Times: 3
+	Query: "catalognumber:15901 institutioncode:UMNH" ; Times: 1
+	Query: "Clearwater Peromyscus" ; Times: 2
+	Query: "genus:Lemmiscus institutioncode:UMNH" ; Times: 2
+	Query: "5 mi S Norman" ; Times: 1
+	Query: "recordedby:legler institutioncode:UMNH" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 3
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "specificepithet:umbrinus county:&#34;Uintah&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UMNH" ; Times: 2
+	Query: "genus:OCHROTOMYS county:&#34;LEWIS&#34; stateprovince:&#34;KENTUCKY&#34;" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:townsendii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 985 download events in this period)
+Total number of records downloaded: 10748
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 26
+	Country: Peru ; Times: 6
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 3
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-20 ; Times: 5
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-25 ; Times: 12
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-17 ; Times: 4
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia hasmass:1" ; Times: 1
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "dipodomys microps" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1996 year &lt;= 2000" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 2
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 2005 year &lt;= 2010" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 5
+	Query: "specificepithet:gracilis genus:spilogale stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;Colorado&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 2006 year &lt;= 2010" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Nevada&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus institutioncode:UMNH" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 2001 year &lt;= 2005" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Arizona&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1961 year &lt;= 1965" ; Times: 3
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
