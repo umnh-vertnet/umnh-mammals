@@ -1,0 +1,229 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 381
+Number of records retrieved in searches: 5361
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 369
+	Country: Mexico ; Times: 5
+	Country: Kuwait ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 2
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-11 ; Times: 6
+	Date: 2019-09-12 ; Times: 7
+	Date: 2019-09-13 ; Times: 6
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 22
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-08 ; Times: 3
+	Date: 2019-09-03 ; Times: 6
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 9
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-21 ; Times: 11
+	Date: 2019-09-20 ; Times: 10
+	Date: 2019-09-23 ; Times: 22
+	Date: 2019-09-22 ; Times: 10
+	Date: 2019-09-25 ; Times: 43
+	Date: 2019-09-24 ; Times: 100
+	Date: 2019-09-27 ; Times: 45
+	Date: 2019-09-26 ; Times: 59
+	Date: 2019-09-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "27957" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Notiosorex" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "Alouatta palliata mappable:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 113
+	Query: "Myotis sodalis" ; Times: 5
+	Query: "Neotoma king county" ; Times: 1
+	Query: "class:Mammalia county:&#34;Benton&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Idionycteris" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "genus:Macrotus county:&#34;imperial&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Microtus pennsylvanicus 1979" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1950 year &lt;= 1959 hassex:1" ; Times: 1
+	Query: "order:lagomorpha class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:Idionycteris" ; Times: 6
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis hastissue:1" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; year &gt;= 1900 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:pennanti genus:Martes (male OR female) institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "Saguinus geoffroyi mappable:1" ; Times: 1
+	Query: "10430" ; Times: 1
+	Query: "genus:Idionycteris phyllotis" ; Times: 5
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; year &gt;= 1964 year &lt;= 1964" ; Times: 1
+	Query: "16994." ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 8
+	Query: "genus:sylvilagus order:lagomorpha class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hassex:1" ; Times: 5
+	Query: "specificepithet:gracilis genus:Spilogale stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 3
+	Query: "nivalis mustela" ; Times: 1
+	Query: "specificepithet:evotis genus:myotis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "palustris warren" ; Times: 2
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "family:Talpidae stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "specificepithet:phyllotis genus:Idionycteris sex:male hassex:1" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "Peromyscus maniculatus 1989" ; Times: 2
+	Query: "Peromyscus maniculatus 1988" ; Times: 4
+	Query: "Peromyscus maniculatus 1981" ; Times: 4
+	Query: "Peromyscus maniculatus 1980" ; Times: 4
+	Query: "Peromyscus maniculatus 1982" ; Times: 1
+	Query: "Peromyscus maniculatus 1985" ; Times: 2
+	Query: "Peromyscus maniculatus 1987" ; Times: 2
+	Query: "Peromyscus maniculatus 1986" ; Times: 2
+	Query: "15722" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "class:mammalia county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "&#34;Glaucomys sabrinus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1800 year &lt;= 2019" ; Times: 1
+	Query: "bison Bison" ; Times: 1
+	Query: "genus:macrotus stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "Peromyscus maniculatus 2009" ; Times: 2
+	Query: "Peromyscus maniculatus 2008" ; Times: 2
+	Query: "Peromyscus maniculatus 2004" ; Times: 3
+	Query: "Peromyscus maniculatus 2007" ; Times: 3
+	Query: "Peromyscus maniculatus 2001" ; Times: 2
+	Query: "Peromyscus maniculatus 2000" ; Times: 3
+	Query: "41235" ; Times: 1
+	Query: "Peromyscus maniculatus 1998" ; Times: 2
+	Query: "Peromyscus maniculatus 1996" ; Times: 4
+	Query: "Peromyscus maniculatus 1997" ; Times: 2
+	Query: "Peromyscus maniculatus 1994" ; Times: 4
+	Query: "Peromyscus maniculatus 1995" ; Times: 2
+	Query: "Peromyscus maniculatus 1992" ; Times: 4
+	Query: "Peromyscus maniculatus 1993" ; Times: 1
+	Query: "Peromyscus maniculatus 1990" ; Times: 2
+	Query: "Peromyscus maniculatus 1991" ; Times: 4
+	Query: "Tamandua mexicana" ; Times: 3
+	Query: "genus:Lemmiscus year &gt;= 2004 year &lt;= 2004" ; Times: 1
+	Query: "Microtus pennsylvanicus 2000" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:gracilis genus:Spilogale stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "Microtus pennsylvanicus 2009" ; Times: 1
+	Query: "Peromyscus maniculatus 2012" ; Times: 2
+	Query: "Peromyscus maniculatus 2010" ; Times: 3
+	Query: "Peromyscus maniculatus 2011" ; Times: 2
+	Query: "peromyscus alaska" ; Times: 4
+	Query: "specificepithet:phyllotis genus:Idionycteris phyllotis" ; Times: 2
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 38
+	Query: "order:chiroptera class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "vntype:specimen (Dasypus novemcinctus) hastissue:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 2014" ; Times: 1
+	Query: "Microtus pennsylvanicus 2010" ; Times: 1
+	Query: "Microtus pennsylvanicus 1984" ; Times: 2
+	Query: "order:Chiroptera county:&#34;White Pine&#34;" ; Times: 3
+	Query: "14150" ; Times: 1
+	Query: "Microtus pennsylvanicus 1983" ; Times: 1
+	Query: "genus:myotis evotis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 4
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1900 year &lt;= 2019" ; Times: 3
+	Query: "Peromyscus maniculatus 1973" ; Times: 2
+	Query: "Peromyscus maniculatus 1974" ; Times: 5
+	Query: "Peromyscus maniculatus 1977" ; Times: 1
+	Query: "Peromyscus maniculatus 1978" ; Times: 2
+	Query: "Peromyscus maniculatus 1979" ; Times: 2
+	Query: "butterfly" ; Times: 1
+	Query: "21870" ; Times: 1
+	Query: "Microtus pennsylvanicus 1998" ; Times: 1
+	Query: "Microtus pennsylvanicus 1997" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:curtatus genus:Lemmiscus hastissue:1" ; Times: 2
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1980 year &lt;= 1989 hassex:1" ; Times: 1
+	Query: "11963" ; Times: 1
+	Query: "specificepithet:Phyllotis genus:Idionycteris" ; Times: 1
+	Query: "37768" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1073 download events in this period)
+Total number of records downloaded: 837
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 4
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 7
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-26 ; Times: 12
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-06 ; Times: 3
+	Date: 2019-09-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "Notiosorex" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 16
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Idionycteris" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "class:mammalia county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 2
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "genus:Idionycteris" ; Times: 3
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 5
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
