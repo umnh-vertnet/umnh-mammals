@@ -1,0 +1,118 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 120
+Number of records retrieved in searches: 2894
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 101
+	Country: United Kingdom ; Times: 12
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-21 ; Times: 1
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-25 ; Times: 3
+	Date: 2020-06-09 ; Times: 5
+	Date: 2020-06-06 ; Times: 11
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-04 ; Times: 9
+	Date: 2020-06-16 ; Times: 1
+	Date: 2020-06-11 ; Times: 9
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-28 ; Times: 3
+	Date: 2020-06-14 ; Times: 2
+	Date: 2020-06-10 ; Times: 50
+	Date: 2020-06-12 ; Times: 8
+	Date: 2020-06-17 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:31172 institutioncode:UMNH" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "catalognumber:32183 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "bobcat" ; Times: 2
+	Query: "catalognumber:32654 institutioncode:UMNH" ; Times: 3
+	Query: "umiat dicrostonyx" ; Times: 3
+	Query: "catalognumber:32184 institutioncode:UMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 13
+	Query: "catalognumber:31873 institutioncode:UMNH" ; Times: 4
+	Query: "catalognumber:32655 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:32468 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:32187 institutioncode:UMNH" ; Times: 3
+	Query: "catalognumber:29794 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:31875 institutioncode:UMNH" ; Times: 3
+	Query: "catalognumber:32653 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "Bos taurus" ; Times: 6
+	Query: "catalognumber:32202 institutioncode:UMNH" ; Times: 7
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "21719" ; Times: 2
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "catalognumber:32185 institutioncode:UMNH" ; Times: 1
+	Query: "umiat lemmus" ; Times: 3
+	Query: "catalognumber:3187 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:31877 institutioncode:UMNH" ; Times: 2
+	Query: "umiat microtus oeconomus" ; Times: 3
+	Query: "catalognumber:31874 institutioncode:UMNH" ; Times: 5
+	Query: "catalognumber:31187 institutioncode:UMNH" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 16
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "umiat microtus miurus" ; Times: 2
+	Query: "catalognumber:31887 institutioncode:UMNH" ; Times: 1
+	Query: "class:mammalia (10058)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 474 download events in this period)
+Total number of records downloaded: 1362
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-06 ; Times: 6
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-04 ; Times: 4
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "umiat dicrostonyx" ; Times: 2
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "bullfrog" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "umiat microtus oeconomus" ; Times: 1
+	Query: "umiat microtus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "umiat microtus miurus" ; Times: 1
+	Query: "umiat lemmus" ; Times: 1
+
+
+End of report.
