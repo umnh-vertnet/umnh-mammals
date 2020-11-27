@@ -1,0 +1,179 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 2919
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 67
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 9
+	Country: Mexico ; Times: 2
+	Country: Panama ; Times: 3
+	Country: Peru ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 2
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 6
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 4
+	Date: 2020-05-19 ; Times: 6
+	Date: 2020-05-10 ; Times: 6
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-17 ; Times: 5
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-08 ; Times: 19
+	Date: 2020-05-07 ; Times: 11
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-04 ; Times: 3
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "24183" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "2074 peromyscus" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "15579" ; Times: 1
+	Query: "2382 peromyscus" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "Pteropus pumilus" ; Times: 1
+	Query: "1927-04-26 taylor" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "order:Carnivora country:&#34;Panama&#34;" ; Times: 3
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 13
+	Query: "16804" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "15583" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "recordedby:Hess" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "12552" ; Times: 1
+	Query: "9738 peromyscus" ; Times: 1
+	Query: "27615" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "Sylvilagus audubonii warreni" ; Times: 1
+	Query: "genus:chaetodipus county:&#34;Alameda&#34;" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "9152 peromyscus" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "33042" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 16
+	Query: "37765" ; Times: 1
+	Query: "2071 peromyscus" ; Times: 3
+	Query: "catalognumber:28784" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1106 download events in this period)
+Total number of records downloaded: 73921
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 30
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 7
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-22 ; Times: 12
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 2
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 2
+	Query: "Nasua nasua" ; Times: 1
+	Query: "order:Rodentia stateprovince:Utah" ; Times: 2
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "class:Mammalia country:&#34;Panama&#34;" ; Times: 1
+	Query: "&#34;Peromyscus keeni&#34;" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Martes martes" ; Times: 1
+	Query: "order:Chiroptera county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &lt;= 1947" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen genus:Mus hasmass:1" ; Times: 2
+	Query: "genus:Martes" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
