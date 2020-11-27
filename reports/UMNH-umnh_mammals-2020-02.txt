@@ -1,0 +1,243 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 1896
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 130
+	Country: Belgium ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-23 ; Times: 3
+	Date: 2020-02-02 ; Times: 3
+	Date: 2020-02-03 ; Times: 6
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-01 ; Times: 4
+	Date: 2020-02-20 ; Times: 4
+	Date: 2020-02-21 ; Times: 4
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-05 ; Times: 6
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 14
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-11 ; Times: 20
+	Date: 2020-02-10 ; Times: 7
+	Date: 2020-02-13 ; Times: 5
+	Date: 2020-02-12 ; Times: 15
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 7
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-24 ; Times: 8
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-27 ; Times: 15
+	Date: 2020-02-06 ; Times: 8
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "2-6775" ; Times: 1
+	Query: "pullatus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "36877" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "mormoops blainvillii" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "14267" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "vntype:specimen genus:Lemmiscus preparations:skeleton institutioncode:UMNH" ; Times: 1
+	Query: "15683" ; Times: 1
+	Query: "11796" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "&#34;Bos taurus&#34;" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "Scotophilus kuhlii" ; Times: 3
+	Query: "26637" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "genus:Lemmiscus institutioncode:UMNH" ; Times: 3
+	Query: "&#34;Microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "20991" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "genus:Panthera family:Felidae country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Lemmiscus county:&#34;Humboldt&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:rotundus genus:Desmodus stateprovince:&#34;Tobago&#34;" ; Times: 1
+	Query: "alcorni specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 22
+	Query: "genus:lemmiscus hastissue:1" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 2
+	Query: "&#34;Microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 2
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 2
+	Query: "panthera tigris" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "family:tupaiidae" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "Antilocapra americana basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Glaucomys sabrinus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Tobago&#34;" ; Times: 5
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34; month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 3
+	Query: "16240" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "15700" ; Times: 1
+	Query: "class:Mammalia institutioncode:UMNH" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "dasypus &#34;novemcinctus&#34;" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 5
+	Query: "Neotoma lepida" ; Times: 3
+	Query: "12020" ; Times: 1
+	Query: "urocitellus elegans" ; Times: 3
+	Query: "antilocapra americana" ; Times: 1
+	Query: "euderma maculatum basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "19835" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "&#34;Glaucomys sabrinus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "36877 Mammals" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "specificepithet:audubonii genus:sylvilagus stateprovince:&#34;california&#34; preparations:skeleton" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 1
+	Query: "tananaensis specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "LEOPARDUS" ; Times: 1
+	Query: "Alouatta" ; Times: 3
+	Query: "genus:Ochotona stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "order:chiroptera stateprovince:&#34;Tobago&#34;" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "indian rock park" ; Times: 1
+	Query: "schell creek" ; Times: 1
+	Query: "15969" ; Times: 1
+	Query: "&#34;Alces americanus&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1023 download events in this period)
+Total number of records downloaded: 44804
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Canada ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 5
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-27 ; Times: 8
+	Date: 2020-02-06 ; Times: 5
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-04 ; Times: 4
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-11 ; Times: 9
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eira barbara" ; Times: 1
+	Query: "pullatus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "specificepithet:californicus genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:pallidus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Myotis melanorhinus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:megacephalus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "zapus princeps" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "mormoops blainvillii" ; Times: 1
+	Query: "genus:lemmiscus hastissue:1" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "class:Mammalia institutioncode:UMNH" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "modestus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:Macrotus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "alcorni specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 3
+	Query: "Nasua narica" ; Times: 1
+	Query: "tananaensis specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 3
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+
+
+End of report.
