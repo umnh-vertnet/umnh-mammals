@@ -1,0 +1,211 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 699
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 97
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 39
+	Country: Finland ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 9
+	Date: 2020-03-30 ; Times: 10
+	Date: 2020-03-31 ; Times: 10
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-18 ; Times: 29
+	Date: 2020-03-19 ; Times: 6
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-09 ; Times: 3
+	Date: 2020-03-14 ; Times: 4
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-10 ; Times: 4
+	Date: 2020-03-08 ; Times: 2
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-27 ; Times: 5
+	Date: 2020-03-25 ; Times: 9
+	Date: 2020-03-24 ; Times: 8
+	Date: 2020-03-23 ; Times: 10
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 11
+	Date: 2020-03-05 ; Times: 5
+	Date: 2020-03-04 ; Times: 10
+	Date: 2020-03-11 ; Times: 4
+	Date: 2020-03-29 ; Times: 4
+	Date: 2020-03-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "36879" ; Times: 2
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "40413" ; Times: 3
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "(scandentia)" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "(18641)" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "specificepithet:nanus genus:Sorex" ; Times: 1
+	Query: "genus:Mustela county:&#34;Box Elder&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "Myotis austroriparius" ; Times: 2
+	Query: "24548" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "specificepithet:dorsalis genus:Tamias county:&#34;Elko&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida year &gt;= 2005 year &lt;= 2020" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex county:&#34;Box Elder&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias" ; Times: 2
+	Query: "Parastrellus hesperus" ; Times: 1
+	Query: "specificepithet:pennanti" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "MAMM (6657)" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 2
+	Query: "Rhinolophus euryale" ; Times: 1
+	Query: "16544" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "13619" ; Times: 2
+	Query: "specificepithet:umbrinus family:Sciuridae stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 30
+	Query: "fountain valley" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "Pteropus mariannus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Mormoops blainvillii" ; Times: 2
+	Query: "21297" ; Times: 1
+	Query: "22251" ; Times: 1
+	Query: "(16380)" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "Myotis evotis" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "22544" ; Times: 1
+	Query: "Haplonycteris fischeri" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "specificepithet:nanus genus:Sorex stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "specificepithet:volans genus:glaucomys country:&#34;united states&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:mexicana genus:tamandua" ; Times: 1
+	Query: "specificepithet:erminea genus:Mustela county:&#34;Box Elder&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "(15209)" ; Times: 1
+	Query: "Myotis dasycneme" ; Times: 2
+	Query: "Plecotus austriacus" ; Times: 1
+	Query: "Rhinolophus ferrumequinum" ; Times: 1
+	Query: "Harpyionycteris whiteheadi" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "(14976)" ; Times: 1
+	Query: "Rhinolophus hipposideros" ; Times: 1
+	Query: "(schofield)" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "Nyctalus noctula" ; Times: 1
+	Query: "specificepithet:dorsalis family:Sciuridae county:&#34;Elko&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "R.39075" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 5
+	Query: "specificepithet:vison genus:Neovison hastissue:1" ; Times: 1
+	Query: "37094" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 2
+	Query: "Myotis melanorhinus" ; Times: 2
+	Query: "32113" ; Times: 1
+	Query: "Pteropus pumilus" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "Pteronotus macleayii" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "12212" ; Times: 1
+	Query: "genus:Tamandua" ; Times: 1
+	Query: "38130" ; Times: 1
+	Query: "Eptesicus serotinus" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "specificepithet:umbrinus family:Sciuridae county:&#34;Elko&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "30740" ; Times: 1
+	Query: "Hipposideros obscurus" ; Times: 1
+	Query: "Eonycteris spelaea" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "41248" ; Times: 1
+	Query: "Uroderma convexum" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 853 download events in this period)
+Total number of records downloaded: 295
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 11
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-31 ; Times: 3
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-09 ; Times: 3
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-18 ; Times: 2
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-11 ; Times: 2
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:ursus" ; Times: 2
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "genus:Callospermophilus hasmass:1 haslength:1" ; Times: 1
+	Query: "county:&#34;Amador&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "specificepithet:vagrans genus:Sorex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mexicana genus:tamandua" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nanus genus:Sorex stateprovince:&#34;Wyoming&#34;" ; Times: 1
+
+
+End of report.
