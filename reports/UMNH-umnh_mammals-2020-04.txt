@@ -1,0 +1,264 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 224
+Number of records retrieved in searches: 2973
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 20
+	Country: United States ; Times: 102
+	Country: Australia ; Times: 1
+	Country: Honduras ; Times: 4
+	Country: Peru ; Times: 4
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 82
+	Country: Ireland ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 33
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-06 ; Times: 18
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-23 ; Times: 21
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 39
+	Date: 2020-04-26 ; Times: 5
+	Date: 2020-04-01 ; Times: 9
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-25 ; Times: 9
+	Date: 2020-04-29 ; Times: 5
+	Date: 2020-04-08 ; Times: 12
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-27 ; Times: 8
+	Date: 2020-04-24 ; Times: 4
+	Date: 2020-04-03 ; Times: 19
+	Date: 2020-04-19 ; Times: 3
+	Date: 2020-04-18 ; Times: 5
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 6
+	Date: 2020-04-10 ; Times: 6
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 4
+	Date: 2020-04-14 ; Times: 5
+	Date: 2020-04-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Bison antiquus" ; Times: 1
+	Query: "Ovis aries" ; Times: 10
+	Query: "23208" ; Times: 1
+	Query: "27883" ; Times: 1
+	Query: "Panguitch" ; Times: 1
+	Query: "EAR-10318" ; Times: 1
+	Query: "38543" ; Times: 1
+	Query: "26823" ; Times: 3
+	Query: "26821" ; Times: 2
+	Query: "specificepithet:crinitus genus:Peromyscus county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "23472" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "30985" ; Times: 1
+	Query: "UMNH Mammal specimens 41283" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "EAR 10227" ; Times: 2
+	Query: "Meles meles" ; Times: 4
+	Query: "Sciurus carolinensis" ; Times: 3
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 4
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "Myodes glareolus" ; Times: 2
+	Query: "(18647)" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Mormoops megalophylla megalophylla stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Ochotona princeps lasalensis" ; Times: 3
+	Query: "22916" ; Times: 1
+	Query: "(10009)" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 22
+	Query: "Rangifer tarandus" ; Times: 3
+	Query: "Hatch Utah" ; Times: 2
+	Query: "(18677)" ; Times: 1
+	Query: "Mustela erminea" ; Times: 4
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "13890" ; Times: 2
+	Query: "EAR 10409" ; Times: 2
+	Query: "Felis catus" ; Times: 4
+	Query: "15034" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi genus:myodes stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 3
+	Query: "(reynolds) year &gt;= 1958 year &lt;= 1960" ; Times: 1
+	Query: "12876" ; Times: 1
+	Query: "40612" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus haslength:1" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "36220" ; Times: 1
+	Query: "EAR-10194" ; Times: 1
+	Query: "EAR-10193" ; Times: 2
+	Query: "EAR-10192" ; Times: 2
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 4
+	Query: "skunk skull" ; Times: 2
+	Query: "41044" ; Times: 2
+	Query: "Equus caballus" ; Times: 2
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Odocoileus hemionus" ; Times: 3
+	Query: "Bos taurus" ; Times: 3
+	Query: "36314" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 8
+	Query: "Capra hircus" ; Times: 2
+	Query: "Apodemus agrarius" ; Times: 4
+	Query: "EAR 10462" ; Times: 2
+	Query: "tamandua mexicana" ; Times: 4
+	Query: "bicknell vntype:specimen" ; Times: 6
+	Query: "Euderma maculatum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 3
+	Query: "34276" ; Times: 1
+	Query: "catalognumber:26300" ; Times: 1
+	Query: "40579" ; Times: 2
+	Query: "40578" ; Times: 2
+	Query: "specificepithet:franklinii genus:poliocitellus" ; Times: 1
+	Query: "recordedby:w. w. price" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 4
+	Query: "25093" ; Times: 1
+	Query: "26884" ; Times: 2
+	Query: "26886" ; Times: 2
+	Query: "EAR 10194" ; Times: 2
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus year &gt;= 2000 year &lt;= 2019 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Xerospermophilus spilosoma" ; Times: 4
+	Query: "EAR 10193" ; Times: 3
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "V. vulpes" ; Times: 5
+	Query: "Panthera tigris" ; Times: 6
+	Query: "EAR-10006" ; Times: 1
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus family:Muridae country:&#34;United States&#34; haslength:1" ; Times: 1
+	Query: "Sorex palustris hasmass:1 haslength:1" ; Times: 1
+	Query: "26816" ; Times: 3
+	Query: "29346" ; Times: 1
+	Query: "Lepus alleni" ; Times: 1
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:townsendii genus:scapanus" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "(18642)" ; Times: 2
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1171 download events in this period)
+Total number of records downloaded: 7493
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 57
+	Country: Austria ; Times: 1
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 7
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-22 ; Times: 11
+	Date: 2020-04-23 ; Times: 14
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-28 ; Times: 11
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 3
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 4
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Dipodidae" ; Times: 1
+	Query: "vntype:specimen family:Phocidae" ; Times: 1
+	Query: "genus:sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:princeps genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Lasionycteris family:Vespertilionidae continent:North America" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "Bison antiquus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "specificepithet:narica genus:Nasua" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "geomyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Odocoileus Hemionus" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Parascalops" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Carollia specificepithet:perspicillata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi genus:myodes stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Microtus longicaudus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi genus:myodes stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:callospermophilus haslength:1" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela haslength:1" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "sciurus" ; Times: 1
+	Query: "genus:Blarina hastissue:1" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus haslength:1" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "heteromyidae hassex:1 hasmass:1" ; Times: 1
+
+
+End of report.
