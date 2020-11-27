@@ -1,0 +1,198 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 2465
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Denmark ; Times: 31
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 131
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 5
+	Date: 2019-11-30 ; Times: 5
+	Date: 2019-11-15 ; Times: 6
+	Date: 2019-11-14 ; Times: 3
+	Date: 2019-11-16 ; Times: 11
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-10 ; Times: 4
+	Date: 2019-11-13 ; Times: 11
+	Date: 2019-11-12 ; Times: 5
+	Date: 2019-11-08 ; Times: 19
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-29 ; Times: 2
+	Date: 2019-11-20 ; Times: 7
+	Date: 2019-11-21 ; Times: 2
+	Date: 2019-11-22 ; Times: 6
+	Date: 2019-11-23 ; Times: 2
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-26 ; Times: 3
+	Date: 2019-11-09 ; Times: 14
+	Date: 2019-11-06 ; Times: 12
+	Date: 2019-11-07 ; Times: 19
+	Date: 2019-11-04 ; Times: 5
+	Date: 2019-11-05 ; Times: 4
+	Date: 2019-11-03 ; Times: 21
+	Date: 2019-11-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 2
+	Query: "Lynx canadensis 2017" ; Times: 3
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lasionycteris county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Neotoma micropus" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Elephas maximus" ; Times: 4
+	Query: "18819" ; Times: 1
+	Query: "catalognumber:22765 institutioncode:UMNH" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "21851" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "Urocitellus beldingi" ; Times: 1
+	Query: "Nasua narica" ; Times: 4
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "P. maniculatus vntype:specimen hastissue:1" ; Times: 1
+	Query: "24573" ; Times: 1
+	Query: "Danish" ; Times: 1
+	Query: "Urocitellus armatus" ; Times: 1
+	Query: "specificepithet:fuscus genus:eptesicus institutioncode:UMNH" ; Times: 2
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 10
+	Query: "Lynx canadensis 2016" ; Times: 4
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "catalognumber:39930 institutioncode:UMNH" ; Times: 2
+	Query: "(chiroptera) institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:942" ; Times: 1
+	Query: "18905" ; Times: 3
+	Query: "Cynomys parvidens 2001" ; Times: 6
+	Query: "18906" ; Times: 1
+	Query: "Cynomys parvidens 2017" ; Times: 6
+	Query: "Cynomys parvidens 2016" ; Times: 6
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2015 year &lt;= 2018 institutioncode:UMNH hastissue:1" ; Times: 7
+	Query: "bobcat" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "genus:glaucomys stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "specificepithet:monax genus:marmota continent:North America year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "(wheeler peak) hastissue:1" ; Times: 1
+	Query: "Cynomys parvidens 1983" ; Times: 6
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "capra" ; Times: 1
+	Query: "10918" ; Times: 1
+	Query: "order:Chiroptera county:&#34;White Pine&#34;" ; Times: 1
+	Query: "genus:procyon lotor continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Hydrochoerus isthmius" ; Times: 1
+	Query: "35676" ; Times: 1
+	Query: "Castor canadensis hastissue:1" ; Times: 2
+	Query: "10565" ; Times: 1
+	Query: "Alces alces" ; Times: 4
+	Query: "Cynomys parvidens 1999" ; Times: 6
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 7
+	Query: "genus:Spilogale stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Myotis sodalis 2016" ; Times: 4
+	Query: "Myotis sodalis 2017" ; Times: 4
+	Query: "Myotis septentrionalis 2017" ; Times: 4
+	Query: "Myotis septentrionalis 2016" ; Times: 4
+	Query: "16051" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "20757" ; Times: 1
+	Query: "Xerospermophilus spilosoma" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "catalognumber:22763 institutioncode:UMNH" ; Times: 2
+	Query: "specificepithet:fuscus genus:eptesicus institutioncode:UMNH hastissue:1" ; Times: 2
+	Query: "specificepithet:spilosoma genus:Xerospermophilus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Gulo luscus" ; Times: 1
+	Query: "sorex merriami" ; Times: 2
+	Query: "catalognumber:32395 institutioncode:UMNH" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "Sorex merriami vntype:specimen hastissue:1" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "schell creek" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1367 download events in this period)
+Total number of records downloaded: 1230
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Belgium ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-23 ; Times: 2
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-01 ; Times: 4
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fuscus genus:eptesicus institutioncode:UMNH" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chaetodipus" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Vulpes family:Canidae class:Mammalia hastissue:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:spilosoma genus:Xerospermophilus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "order:rodentia county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Africa" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vntype:specimen family:Muridae class:Mammalia hastissue:1" ; Times: 1
+	Query: "Sorex merriami vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:Tamias stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "genus:Spilogale stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+
+
+End of report.
