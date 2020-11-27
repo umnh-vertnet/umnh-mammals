@@ -1,0 +1,137 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 630
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 62
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 4
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-21 ; Times: 5
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 3
+	Date: 2019-12-12 ; Times: 8
+	Date: 2019-12-13 ; Times: 5
+	Date: 2019-12-14 ; Times: 7
+	Date: 2019-12-15 ; Times: 2
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 4
+	Date: 2019-12-30 ; Times: 2
+	Date: 2019-12-09 ; Times: 6
+	Date: 2019-12-08 ; Times: 4
+	Date: 2019-12-07 ; Times: 3
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 4
+	Date: 2019-12-03 ; Times: 4
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Geomyidae institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;washoe&#34; stateprovince:&#34;nevada&#34; hastissue:1" ; Times: 1
+	Query: "32093" ; Times: 1
+	Query: "lagurus" ; Times: 1
+	Query: "specificepithet:gracilis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "17045" ; Times: 1
+	Query: "UMNH Mammals 41000" ; Times: 1
+	Query: "UMNH Mammals 40000" ; Times: 1
+	Query: "11270." ; Times: 1
+	Query: "14153" ; Times: 1
+	Query: "20195" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Box Elder&#34; stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 2
+	Query: "28549" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 19
+	Query: "13208" ; Times: 1
+	Query: "vntype:specimen specificepithet:tenellus genus:Sorex country:&#34;United States&#34;" ; Times: 1
+	Query: "UMNH Mammals 42200" ; Times: 1
+	Query: "specificepithet:audubonii genus:Sylvilagus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;salt lake&#34; stateprovince:&#34;utah&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:curtatus genus:Lemmiscus stateprovince:&#34;Nevada&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "18569" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1400 year &lt;= 1910" ; Times: 3
+	Query: "UMNH Mammals 42000" ; Times: 1
+	Query: "33534" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "genus:Ochrotomys stateprovince:&#34;Kentucky&#34;" ; Times: 6
+	Query: "vntype:specimen specificepithet:curtatus genus:Lemmiscus county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:thomomys county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Salt Lake&#34; stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 1
+	Query: "genus:Bassariscus" ; Times: 1
+	Query: "23783" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "lepus alleni" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "37484" ; Times: 2
+	Query: "genus:Reithrodontomys class:Mammalia county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:tenellus genus:Sorex stateprovince:&#34;Nevada&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus year &lt;= 2018 month &lt;= 12 enddayofyear &lt;= 8" ; Times: 1
+	Query: "vntype:specimen family:Heteromyidae institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 596 download events in this period)
+Total number of records downloaded: 5373
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Paraguay ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-02 ; Times: 6
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Geomyidae institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "vntype:specimen family:Heteromyidae institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
