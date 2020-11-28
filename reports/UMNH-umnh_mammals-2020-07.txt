@@ -1,0 +1,195 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 784
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 81
+	Country: Netherlands ; Times: 2
+	Country: Ireland ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 5
+	Country: Peru ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 16
+	Country: Chile ; Times: 3
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 6
+	Date: 2020-07-21 ; Times: 13
+	Date: 2020-07-20 ; Times: 14
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 5
+	Date: 2020-07-24 ; Times: 3
+	Date: 2020-07-01 ; Times: 6
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-02 ; Times: 3
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-04 ; Times: 7
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 4
+	Date: 2020-07-23 ; Times: 10
+	Date: 2020-07-29 ; Times: 9
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 6
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-14 ; Times: 5
+	Date: 2020-07-17 ; Times: 4
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-28 ; Times: 13
+	Date: 2020-07-30 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "leopardus geoffroyi" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 3
+	Query: "10650" ; Times: 1
+	Query: "Microtus richardsoni year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "40514" ; Times: 2
+	Query: "20502" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "16350" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "didelphis virginiana california" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "Tupaia glis" ; Times: 16
+	Query: "american bullfrog" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex" ; Times: 2
+	Query: "specificepithet:dorsatum genus:Erethizon hastissue:1" ; Times: 2
+	Query: "12348" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "10347" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 34
+	Query: "13364" ; Times: 1
+	Query: "geomys bursarius arkansas" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;4977167" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "county:&#34;Washington&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 3
+	Query: "13222" ; Times: 1
+	Query: "country:Ecuador genus:Panthera " ; Times: 1
+	Query: "UMNH 31867" ; Times: 1
+	Query: "Chamberlain year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "vntype:specimen genus:Spilogale hastissue:1" ; Times: 1
+	Query: "19825" ; Times: 1
+	Query: "scientificname:Panthera onca " ; Times: 2
+	Query: "Scotophilus kuhlii" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "19863" ; Times: 1
+	Query: "alces" ; Times: 1
+	Query: "27947" ; Times: 2
+	Query: "15110" ; Times: 1
+	Query: "21099" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "13627" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "genus:Mephitis hastissue:1" ; Times: 1
+	Query: "genus:Zapus county:&#34;Archuleta&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "antilocapra americana" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 4
+	Query: "23686" ; Times: 2
+	Query: "13459" ; Times: 1
+	Query: "genus:Conepatus institutioncode:UMNH" ; Times: 2
+	Query: "39186" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "11163" ; Times: 1
+	Query: "vntype:specimen genus:Mephitis hastissue:1" ; Times: 1
+	Query: "locality:pANACA" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "Humbold" ; Times: 2
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "Lemmiscus curtatus orbitus" ; Times: 1
+	Query: "genus:Spilogale hastissue:1" ; Times: 5
+	Query: "35921" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Wyoming Moose" ; Times: 1
+	Query: "genus:Neovison hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 940 download events in this period)
+Total number of records downloaded: 31699
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 17
+	Country: Colombia ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Chamberlain year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
