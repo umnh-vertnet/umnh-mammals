@@ -1,0 +1,255 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 181
+Number of records retrieved in searches: 2192
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 123
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 23
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 10
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-08 ; Times: 7
+	Date: 2020-10-12 ; Times: 4
+	Date: 2020-10-13 ; Times: 36
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-16 ; Times: 3
+	Date: 2020-10-17 ; Times: 4
+	Date: 2020-10-15 ; Times: 4
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-22 ; Times: 7
+	Date: 2020-10-21 ; Times: 8
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-27 ; Times: 6
+	Date: 2020-10-26 ; Times: 9
+	Date: 2020-10-25 ; Times: 6
+	Date: 2020-10-24 ; Times: 5
+	Date: 2020-10-30 ; Times: 8
+	Date: 2020-10-29 ; Times: 8
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-05 ; Times: 7
+	Date: 2020-10-04 ; Times: 4
+	Date: 2020-10-07 ; Times: 3
+	Date: 2020-10-31 ; Times: 9
+	Date: 2020-10-06 ; Times: 16
+	Date: 2020-10-02 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:palmeri genus:tamias class:mammalia institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:palmeri genus:tamias class:mammalia" ; Times: 1
+	Query: "Ovis aries" ; Times: 3
+	Query: "Synaptomys cooperi Illinois" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 32
+	Query: "Mammal-17053" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias class:mammalia institutioncode:UMNH" ; Times: 1
+	Query: "clark county (wisconsin)" ; Times: 1
+	Query: "41813" ; Times: 2
+	Query: "north American porcupine" ; Times: 2
+	Query: "mammal 10766" ; Times: 1
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "Taxidea taxus berlandieri" ; Times: 1
+	Query: "catalognumber:1982" ; Times: 1
+	Query: "class:Mammalia county:&#34;Morgan&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias class:mammalia institutioncode:UMNH" ; Times: 1
+	Query: "MAMMAL MISSOURI reithrodontomys megalotis" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "specificepithet:latrans genus:canis year &lt;= 1900" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Procyon lotor year &gt;= 2010 year &lt;= 2020 hastissue:1" ; Times: 4
+	Query: "MAMMALS MISSOURI RODENTIA REITHRODONTOMYS" ; Times: 1
+	Query: "specificepithet:leo genus:Panthera continent:Africa" ; Times: 1
+	Query: "tamias umbrinus inyoensis" ; Times: 1
+	Query: "class:Mammalia year &gt;= 1800 year &lt;= 2015 institutioncode:UMNH" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "Meles meles" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "MAMMAL MISSOURI scalopus aquaticus" ; Times: 1
+	Query: "Odocoileus hemionus Colorado" ; Times: 1
+	Query: "scientificname:Tamias sibiricus" ; Times: 1
+	Query: "MAMMAL MISSOURI" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "catalognumber:5551 institutioncode:UMNH" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "specificepithet:rufus genus:tamias class:mammalia institutioncode:UMNH" ; Times: 1
+	Query: "10431" ; Times: 1
+	Query: "Mammal-27445" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias class:mammalia" ; Times: 1
+	Query: "class:Mammalia county:&#34;Rich&#34; stateprovince:&#34;Utah&#34; year &lt;= 2000" ; Times: 1
+	Query: "(12009)" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 4
+	Query: "macfarlane" ; Times: 1
+	Query: "class:Mammalia county:&#34;Rich&#34; stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "tule springs" ; Times: 2
+	Query: "20347" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias class:mammalia institutioncode:UMNH" ; Times: 1
+	Query: "genus:perimyotis county:&#34;alachua&#34;" ; Times: 1
+	Query: "25126" ; Times: 1
+	Query: "specificepithet:lupus pambasileus genus:Canis" ; Times: 1
+	Query: "23783" ; Times: 2
+	Query: "20582" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:UMNH" ; Times: 1
+	Query: "scientificname:Panthera tigris" ; Times: 1
+	Query: "genus:Leopardus " ; Times: 1
+	Query: "class:mammalia county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:concolor genus:puma year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "scientificname:Gulo gulo" ; Times: 3
+	Query: "Brown trout" ; Times: 1
+	Query: "sentinel" ; Times: 2
+	Query: "bobcat" ; Times: 1
+	Query: "class:Mammalia county:&#34;Weber&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "(wisconsin clark)" ; Times: 1
+	Query: "MAMMALS MISSOURI RODENTIA" ; Times: 2
+	Query: "Mammalia vntype:specimen catalognumber:1982" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "ochotona princeps talus" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "33842" ; Times: 1
+	Query: "33841" ; Times: 2
+	Query: "Bos taurus" ; Times: 4
+	Query: "mammal 13363" ; Times: 1
+	Query: "Capra hircus" ; Times: 2
+	Query: "order:rodentia country:&#34;tanzania&#34;" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Synaptomys cooperi Kansas" ; Times: 3
+	Query: "class:Mammalia county:&#34;Rich&#34; stateprovince:&#34;Utah&#34; year &lt;= 1990" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "moth" ; Times: 1
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UMNH" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 2
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:UMNH" ; Times: 1
+	Query: "Rupicapra rupicapra" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias class:mammalia institutioncode:UMNH" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 5
+	Query: "class:Mammalia county:&#34;Rich&#34; stateprovince:&#34;Utah&#34; month &lt;= 1991" ; Times: 1
+	Query: "10766" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "clark county wisconsin" ; Times: 1
+	Query: "Mammal-27248" ; Times: 1
+	Query: "22692" ; Times: 1
+	Query: "37567" ; Times: 1
+	Query: "12803" ; Times: 2
+	Query: "Erethizon dorsatum" ; Times: 3
+	Query: "vntype:specimen genus:Castor stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "sorex merriami" ; Times: 2
+	Query: "Procyon lotor country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "hastissue:1 &#34;Lepus californicus&#34;" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias class:mammalia institutioncode:UMNH" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 3
+	Query: "country:&#34;United States&#34; Bassariscus astutus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Cache&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "36220" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 1521 download events in this period)
+Total number of records downloaded: 45959
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 56
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-02 ; Times: 4
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-28 ; Times: 6
+	Date: 2020-10-05 ; Times: 3
+	Date: 2020-10-31 ; Times: 11
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-06 ; Times: 6
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-14 ; Times: 16
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "perimyotis subflavus" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 2
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "class:Mammalia county:&#34;Rich&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Morgan&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Weber&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;United States&#34; continent:America year &gt;= 1800 year &lt;= 2015 hastypestatus:1" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Sorex fumeus" ; Times: 4
+	Query: "Blarina carolinensis" ; Times: 2
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Procyon lotor year &gt;= 2010 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "order:pholidota" ; Times: 1
+	Query: "family:elephantidae" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:UMNH" ; Times: 1
+	Query: "class:Mammalia county:&#34;Cache&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+	Query: "class:Mammalia county:&#34;Rich&#34; stateprovince:&#34;Utah&#34; year &lt;= 1990" ; Times: 1
+
+
+End of report.
