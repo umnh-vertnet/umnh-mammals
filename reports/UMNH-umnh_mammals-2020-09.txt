@@ -1,0 +1,216 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 127
+Number of records retrieved in searches: 1352
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 87
+	Country: Malaysia ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Ireland ; Times: 4
+	Country: Colombia ; Times: 3
+	Country: Hong Kong ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 5
+	Date: 2020-09-08 ; Times: 9
+	Date: 2020-09-03 ; Times: 6
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 4
+	Date: 2020-09-07 ; Times: 5
+	Date: 2020-09-06 ; Times: 5
+	Date: 2020-09-05 ; Times: 2
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-20 ; Times: 3
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-25 ; Times: 4
+	Date: 2020-09-24 ; Times: 11
+	Date: 2020-09-26 ; Times: 5
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-30 ; Times: 6
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 7
+	Date: 2020-09-10 ; Times: 6
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-12 ; Times: 5
+	Date: 2020-09-13 ; Times: 11
+	Date: 2020-09-18 ; Times: 10
+	Date: 2020-09-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "16649" ; Times: 1
+	Query: "creel" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Cynomys distance(location,geopoint(38.29518709012489,-100.1220703125))&lt;226672" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 13
+	Query: "32708" ; Times: 3
+	Query: "cynomys ludovicianus" ; Times: 14
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "scientificname:Reithrodontomys megalotis" ; Times: 1
+	Query: "31504" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex preparations:skull" ; Times: 3
+	Query: "10122" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "Tupaia glis" ; Times: 1
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 2
+	Query: "specificepithet:lagopus genus:Alopex" ; Times: 8
+	Query: "23790" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:canadensis nelsoni genus:Ovis" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "16794" ; Times: 1
+	Query: "peromyscus maniculatus catalognumber:4491" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "10815" ; Times: 3
+	Query: "specificepithet:palustris natator genus:Oryzomys" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "Spilogale vntype:specimen hastissue:1" ; Times: 1
+	Query: "16892" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "sciurus aberti american museum" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "genus:Corynorhinus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "American mink" ; Times: 1
+	Query: "scientificname:Peromyscus keeni" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "&#34;glaucomys sabrinus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:idahoensis genus:Brachylagus" ; Times: 2
+	Query: "16952" ; Times: 1
+	Query: "specificepithet:floridana smalli genus:Neotoma" ; Times: 2
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "specificepithet:brunneus genus:Urocitellus" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "catalognumber:22005 institutioncode:UMNH" ; Times: 2
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "15075" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "alouatta palliata" ; Times: 4
+	Query: "specificepithet:Evotis genus:Myotis stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "bos taurus" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "38572" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex preparations:skull institutioncode:UMNH" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "specificepithet:megalophylla genus:Mormoops country:&#34;United States&#34;" ; Times: 4
+	Query: "specificepithet:lagopus genus:Alopex preparations:skull" ; Times: 2
+	Query: "24760" ; Times: 1
+	Query: "11923" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 976 download events in this period)
+Total number of records downloaded: 4432
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 50
+	Country: Mexico ; Times: 5
+	Country: Spain ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 5
+	Date: 2020-09-10 ; Times: 5
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-29 ; Times: 4
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-18 ; Times: 6
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-09 ; Times: 10
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus hasmass:1" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "specificepithet:lupus arctos genus:canis" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 2
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 2
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Perognathus fasciatus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "genus:Martes specificepithet:americana*" ; Times: 3
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "family:Canidae hastissue:1" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "marmosa mexicana" ; Times: 1
+	Query: "specificepithet:brunneus genus:Urocitellus" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex preparations:skull" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
