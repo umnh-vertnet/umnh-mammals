@@ -1,0 +1,284 @@
+Report for Institution Code UMNH, Resource umnh_mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 242
+Number of records retrieved in searches: 6193
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 190
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 15
+	Country: Ecuador ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Bolivia ; Times: 1
+	Country: Spain ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 5
+	Date: 2020-12-31 ; Times: 2
+	Date: 2020-12-09 ; Times: 7
+	Date: 2020-12-08 ; Times: 4
+	Date: 2020-12-07 ; Times: 7
+	Date: 2020-12-06 ; Times: 7
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-04 ; Times: 9
+	Date: 2020-12-03 ; Times: 9
+	Date: 2020-12-02 ; Times: 6
+	Date: 2020-12-01 ; Times: 3
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-24 ; Times: 4
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-20 ; Times: 22
+	Date: 2020-12-23 ; Times: 49
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-28 ; Times: 2
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-19 ; Times: 56
+	Date: 2020-12-10 ; Times: 5
+	Date: 2020-12-11 ; Times: 3
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 19
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-16 ; Times: 3
+	Date: 2020-12-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "18646" ; Times: 1
+	Query: "genus:dipodomys order:rodentia locality:toiyabe stateprovince:&#34;Nevada&#34; (skull) institutioncode:UMNH" ; Times: 1
+	Query: "genus:perognathus stateprovince:&#34;nevada&#34; (skull) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "41264" ; Times: 1
+	Query: "order:rodentia locality:Ruby Mountains (skeleton) institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "UMNH Mammal specimens 32599" ; Times: 1
+	Query: "Mammal-25855" ; Times: 1
+	Query: "dipodomys order:rodentia stateprovince:&#34;nevada&#34; (skull) AND (NOT tamias NOT microtus NOT zapus) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 2
+	Query: "dipodomys order:rodentia stateprovince:&#34;nevada&#34; (skull) AND (NOT tamias NOT microtus NOT zapus) year &lt;= 2019 institutioncode:UMNH" ; Times: 2
+	Query: "umnh mammal specimens 32605" ; Times: 1
+	Query: "genus:dipodomys locality:toiyabe (skull) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "scientificname:Martes pennanti stateprovince:new york" ; Times: 2
+	Query: "dipodomys order:rodentia stateprovince:&#34;nevada&#34; (skull ruby) AND (NOT tamias NOT microtus NOT zapus) year &lt;= 2019" ; Times: 1
+	Query: "genus:neotoma (toiyabe) institutioncode:UMNH" ; Times: 1
+	Query: "gbifdatasetid:06a00852-f764-4fb8-80d4-ca51f0918459" ; Times: 1
+	Query: "36800" ; Times: 1
+	Query: "locality:homestead institutioncode:UMNH" ; Times: 1
+	Query: "UMNH Mammal specimens 32455" ; Times: 1
+	Query: "Neotoma floridana smalli" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "genus:perognathus (toiyabe) institutioncode:UMNH" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "locality:homestead stateprovince:&#34;utah&#34; institutioncode:UMNH" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "UMNH Mammal specimens 31818" ; Times: 1
+	Query: "umnh mammal specimens 32660" ; Times: 1
+	Query: "order:rodentia county:&#34;box elder&#34; stateprovince:&#34;utah&#34; institutioncode:UMNH" ; Times: 2
+	Query: "genus:neotoma order:rodentia locality:toiyabe stateprovince:&#34;Nevada&#34; (skull) institutioncode:UMNH" ; Times: 3
+	Query: "catalognumber:13834 institutioncode:UMNH" ; Times: 1
+	Query: "class:Mammalia locality:Great Basin" ; Times: 1
+	Query: "26360" ; Times: 1
+	Query: "(ruby perognathus) institutioncode:UMNH" ; Times: 1
+	Query: "genus:Dipodomys order:rodentia locality:toiyabe institutioncode:UMNH" ; Times: 2
+	Query: "order:rodentia stateprovince:&#34;utah&#34; recordedby:Rebecca J. Rowe institutioncode:UMNH" ; Times: 1
+	Query: "37189" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;utah&#34; recordedby:Rickart institutioncode:UMNH" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;nevada&#34; (toiyabe perognathus) AND (NOT tamias NOT microtus NOT zapus) year &lt;= 2019" ; Times: 1
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "E.5616.A" ; Times: 1
+	Query: "Tamandua" ; Times: 1
+	Query: "genus:perognathus (toiyabe) (skull) institutioncode:UMNH" ; Times: 1
+	Query: "order:rodentia recordedby:Rebecca J. Rowe institutioncode:UMNH" ; Times: 2
+	Query: "UMNH Mammal specimens 33514" ; Times: 1
+	Query: "UMNH Mammal specimens 33517" ; Times: 1
+	Query: "UMNH Mammal specimens 33516" ; Times: 2
+	Query: "genus:peromyscus order:rodentia locality:toiyabe institutioncode:UMNH" ; Times: 1
+	Query: "25529" ; Times: 1
+	Query: "&#34;myotis septentrionalis&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:neotoma order:rodentia locality:toiyabe stateprovince:&#34;Nevada&#34; institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "UMNH Mammal specimens 3350`" ; Times: 1
+	Query: "genus:tamias family:Sciuridae county:&#34;amador&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "UMNH Mammal specimens 33502" ; Times: 1
+	Query: "genus:neotoma order:rodentia locality:toiyabe (skeleton) institutioncode:UMNH" ; Times: 1
+	Query: "25113" ; Times: 1
+	Query: "30561" ; Times: 1
+	Query: "UMNH Mammal specimens 32345" ; Times: 1
+	Query: "UMNH Mammal specimens 3351" ; Times: 1
+	Query: "order:rodentia locality:ruby institutioncode:UMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 23
+	Query: "17310" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;nevada&#34; (ruby skull) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Dipodomys order:rodentia locality:toiyabe stateprovince:&#34;Nevada&#34; (skull) institutioncode:UMNH" ; Times: 1
+	Query: "(ruby skull perognathus) institutioncode:UMNH" ; Times: 1
+	Query: "family:Heteromyidae order:rodentia stateprovince:&#34;utah&#34; recordedby:Rickart institutioncode:UMNH" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "genus:perognathus stateprovince:&#34;nevada&#34; (skull) institutioncode:UMNH" ; Times: 2
+	Query: "UMNH Mammal specimens 33503" ; Times: 1
+	Query: "UMNH Mammal specimens 33500" ; Times: 1
+	Query: "UMNH Mammal specimens 33501" ; Times: 1
+	Query: "scientificname:Condylura cristata stateprovince:new york" ; Times: 2
+	Query: "genus:perognathus (skull) institutioncode:UMNH" ; Times: 2
+	Query: "order:rodentia recordedby:Rebecca J. Rowe" ; Times: 2
+	Query: "order:rodentia stateprovince:&#34;nevada&#34; (perognathus skull) AND (NOT tamias NOT microtus NOT zapus) year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "UMNH Mammal specimens 31525" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;nevada&#34; (skull) AND (NOT tamias NOT microtus NOT zapus NOT thomomys) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "genus:peromyscus order:rodentia locality:toiyabe (skull) institutioncode:UMNH" ; Times: 3
+	Query: "12995" ; Times: 1
+	Query: "(skull formosus) institutioncode:UMNH" ; Times: 2
+	Query: "dipodomys order:rodentia stateprovince:&#34;nevada&#34; (toiyabe) AND (NOT tamias NOT microtus NOT zapus) year &lt;= 2019" ; Times: 1
+	Query: "24209" ; Times: 1
+	Query: "stateprovince:&#34;utah&#34; recordedby:Rickart institutioncode:UMNH" ; Times: 1
+	Query: "umnh mammal specimens 32600" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "27650" ; Times: 1
+	Query: "dipodomys order:rodentia stateprovince:&#34;nevada&#34; (skull toiyabe) AND (NOT tamias NOT microtus NOT zapus) year &lt;= 2019" ; Times: 1
+	Query: "UMNH Mammal specimens 31873" ; Times: 1
+	Query: "UMNH Mammal specimens 32468" ; Times: 1
+	Query: "41988" ; Times: 1
+	Query: "genus:dipodomys order:rodentia locality:Ruby (skeleton) institutioncode:UMNH" ; Times: 1
+	Query: "family:Heteromyidae order:rodentia recordedby:Rebecca J. Rowe institutioncode:UMNH" ; Times: 2
+	Query: "Myotis evotis" ; Times: 1
+	Query: "genus:neotoma locality:Ruby (skull)" ; Times: 1
+	Query: "genus:dipodomys order:rodentia locality:toiyabe (skeleton) institutioncode:UMNH" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "order:rodentia stateprovince:&#34;nevada&#34; (perognathus toiyabe) AND (NOT tamias NOT microtus NOT zapus NOT thomomys NOT peromyscus) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "41740" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "UMNH Mammal specimens 32202" ; Times: 1
+	Query: "genus:peromyscus locality:toiyabe (skull) institutioncode:UMNH" ; Times: 1
+	Query: "genus:perognathus (toiyabe skull) institutioncode:UMNH" ; Times: 1
+	Query: "genus:neotoma order:rodentia locality:Ruby (skeleton) institutioncode:UMNH" ; Times: 1
+	Query: "41856" ; Times: 1
+	Query: "genus:peromyscus locality:toiyabe (skull) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "21726" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;nevada&#34; (ruby skull) AND (NOT tamias NOT microtus NOT zapus) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 2
+	Query: "order:rodentia locality:toiyabe institutioncode:UMNH" ; Times: 4
+	Query: "Plecotus austriacus" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "family:Heteromyidae order:rodentia stateprovince:&#34;Utah&#34; institutioncode:UMNH" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "genus:perognathus (toiyabe) (skull)" ; Times: 1
+	Query: "Bos taurus" ; Times: 2
+	Query: "order:rodentia stateprovince:&#34;nevada&#34; (toiyabe perognathus skull) AND (NOT tamias NOT microtus NOT zapus) year &lt;= 2019" ; Times: 1
+	Query: "(maniculatus) institutioncode:UMNH" ; Times: 2
+	Query: "UMNH Mammal specimens 33515" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:toiyabe (skull) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "genus:peromyscus order:rodentia locality:toiyabe stateprovince:&#34;Nevada&#34; (skull) institutioncode:UMNH" ; Times: 1
+	Query: "Cervinae" ; Times: 1
+	Query: "19907" ; Times: 1
+	Query: "25857" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "26573" ; Times: 1
+	Query: "Peromyscus order:rodentia stateprovince:&#34;nevada&#34; (ruby skull) AND (NOT tamias NOT microtus NOT zapus) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "35966" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;nevada&#34; (ruby skull) AND (NOT tamias microtus ) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "35101" ; Times: 1
+	Query: "order:rodentia county:&#34;nye&#34; stateprovince:&#34;nevada&#34; (perognathus skull) AND (NOT tamias NOT microtus NOT zapus) year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "39031" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "specificepithet:longimembris genus:perognathus stateprovince:&#34;nevada&#34; (skull) institutioncode:UMNH" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;nevada&#34; (ruby skull) AND (NOT tamias) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "(21726)" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;nevada&#34; (skull) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "class:mammalia catalognumber:25756 institutioncode:UMNH" ; Times: 1
+	Query: "17519" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "UMNH Mammal specimens 32655" ; Times: 1
+	Query: "UMNH Mammal specimens 33497" ; Times: 1
+	Query: "Myotis daubentoni" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 16
+	Query: "class:Mammalia county:&#34;Jefferson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "UMNH Mammal specimens 33498" ; Times: 1
+	Query: "UMNH Mammal specimens 33499" ; Times: 1
+	Query: "30727" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;nevada&#34; (skull perognathus toiyabe) AND (NOT tamias NOT microtus NOT zapus NOT thomomys NOT peromyscus) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;nevada&#34; (ruby skull) AND (tamias) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Utah&#34; recordedby:Rebecca J. Rowe" ; Times: 1
+	Query: "12880" ; Times: 1
+	Query: "family:Sciuridae county:&#34;amador&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "22063" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Peromyscus maniculatus order:rodentia stateprovince:&#34;nevada&#34; (ruby skull) AND (NOT tamias NOT microtus NOT zapus) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "genus:perognathus stateprovince:&#34;nevada&#34; year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "umnh 32620" ; Times: 2
+	Query: "order:rodentia stateprovince:&#34;nevada&#34; (skull) AND (NOT tamias NOT microtus NOT zapus NOT thomomys NOT peromyscus) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 5
+	Query: "11258" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "genus:neotoma order:rodentia locality:Ruby Mountains (skeleton) institutioncode:UMNH" ; Times: 1
+	Query: "34899" ; Times: 2
+	Query: "34898" ; Times: 1
+	Query: "order:rodentia locality:Ruby Mountains (skull) institutioncode:UMNH" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 705 download events in this period)
+Total number of records downloaded: 21879
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-02 ; Times: 5
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:sciuridae" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "family:Muridae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:toiyabe (skull) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "class:Mammalia locality:Great Basin" ; Times: 1
+	Query: "Peromyscus maniculatus order:rodentia stateprovince:&#34;nevada&#34; (ruby skull) AND (NOT tamias NOT microtus NOT zapus) year &gt;= 2000 year &lt;= 2019 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UMNH" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+
+
+End of report.
